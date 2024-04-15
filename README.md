@@ -765,21 +765,15 @@ Thanks for your attention and kind words! I will update KGE later.
 
 ##### ACL
 
-- <a name="AS"></a> **(AS)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**Knowledge Graph Embedding by Adaptive Limit Scoring Loss Using Dynamic Weighting Strategy**". **ACL (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-acl.91/)
-
 - <a name="CAKE"></a> **(CAKE)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.205/) [code](https://github.com/ngl567/CAKE)
 
 - <a name="CEN"></a> **(CEN)** Zixuan Li, Saiping Guan, Xiaolong Jin, Weihua Peng, Yajuan Lyu, Yong Zhu, Long Bai, Wei Li, Jiafeng Guo, Xueqi Cheng. "**Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-short.32/) [code](https://github.com/lee-zix/cen)
-
-- <a name="CogKGE"></a> **(CogKGE)** Zhuoran Jin, Tianyi Men, Hongbang Yuan, Zhitao He, Dianbo Sui, Chenhao Wang, Zhipeng Xue, Yubo Chen, Jun Zhao. "**CogKGE: A Knowledge Graph Embedding Toolkit and Benchmark for Representing Multi-source and Heterogeneous Knowledge**". **ACL (demo) 2022**. [paper](https://aclanthology.org/2022.acl-demo.16/) [code](https://github.com/jinzhuoran/cogkge)
 
 - <a name="GenderBias"></a> **(GenderBias)** Yupei Du, Qi Zheng, Yuanbin Wu, Man Lan, Yan Yang, Meirong Ma. "**Understanding Gender Bias in Knowledge Base Embeddings**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.98/)
 
 - <a name="KGT5"></a> **(KGT5)** Apoorv Saxena, Adrian Kochsiek, Rainer Gemulla. "**Sequence-to-Sequence Knowledge Graph Completion and Question Answering**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.201/) [code](https://github.com/apoorvumang/kgt5)
 
 - <a name="KGTuner"></a> **(KGTuner)** Yongqi Zhang, Zhanke Zhou, Quanming Yao, Yong Li. "**Efficient Hyper-parameter Search for Knowledge Graph Embedding**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.194/) [code](https://github.com/AutoML-Research/KGTuner)
-
-- <a name="PKGC"></a> **(PKGC)** Xin Lv, Yankai Lin, Yixin Cao, Lei Hou, Juanzi Li, Zhiyuan Liu, Peng Li, Jie Zhou. "**Do Pre-trained Models Benefit Knowledge Graph Completion? A Reliable Evaluation and a Reasonable Approach**". **ACL (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-acl.282/) [code](https://github.com/thu-keg/pkgc)
 
 - <a name="RotateQVS"></a> **(RotateQVS)** Kai Chen, Ye Wang, Yitong Li, Aiping Li. "**RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.402/)
 
@@ -864,8 +858,6 @@ Thanks for your attention and kind words! I will update KGE later.
 ##### NAACL-HLT
 
 - <a name="LDP"></a> **(LDP)** Huda Hakami, Mona Hakami, Angrosh Mandya, Danushka Bollegala. "**Learning to Borrow- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion**". **NAACL-HLT 2022**. [paper](https://aclanthology.org/2022.naacl-main.209/) [code](https://github.com/huda-hakami/learning-to-borrow-for-kgs)
-
-- <a name="StATIK"></a> **(StATIK)** Elan Markowitz, Keshav Balasubramanian, Mehrnoosh Mirtaheri, Murali Annavaram, Aram Galstyan, Greg Ver Steeg. "**StATIK: Structure and Text for Inductive Knowledge Graph Completion**". **NAACL-HLT (Findings) 2022**. [paper](https://aclanthology.org/2022.findings-naacl.46/)
 
 ##### SIGMOD
 
@@ -1149,23 +1141,11 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="CluSTeR"></a> **(CluSTeR)** Zixuan Li, Xiaolong Jin, Saiping Guan, Wei Li, Jiafeng Guo, Yuanzhuo Wang, Xueqi Cheng. "**Search from History and Reason for Future: Two-stage Reasoning on Temporal Knowledge Graphs**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.365/)
 
-- <a name="EIGAT"></a> **(EIGAT)** Yu Zhao, Han Zhou, Ruobing Xie, Fuzhen Zhuang, Qing Li, Ji Liu. "**Incorporating Global Information in Local Attention for Knowledge Representation Learning**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.115/) [code](https://github.com/zhouhanhanhan/EIGAT)
-
-- <a name="GRAN"></a> **(GRAN)** Quan Wang, Haifeng Wang, Yajuan Lyu, Yong Zhu. "**Link Prediction on N-ary Relational Facts: A Graph-based Approach**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.35/)
-
-- <a name="HERCULES"></a> **(HERCULES)** Sebastien Montella, Lina Maria Rojas-Barahona, Johannes Heinecke. "**Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.292/)
-
 - <a name="InferenceAttack"></a> **(InferenceAttack)** Peru Bhardwaj, John D. Kelleher, Luca Costabello, Declan O'Sullivan. "**Poisoning Knowledge Graph Embeddings via Relation Inference Patterns**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.147/) [code](https://github.com/PeruBhardwaj/InferenceAttack)
 
 - <a name="InferWiki"></a> **(InferWiki)** Yixin Cao, Xiang Ji, Xin Lv, Juanzi Li, Yonggang Wen, Hanwang Zhang. "**Are Missing Links Predictable? An Inferential Benchmark for Knowledge Graph Completion**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.534/) [code](https://github.com/TaoMiner/inferwiki)
 
-- <a name="MLMLM"></a> **(MLMLM)** Louis Clouâtre, Philippe Trempe, Amal Zouaq, Sarath Chandar. "**MLMLM: Link Prediction with Mean Likelihood Masked Language Model**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.378/) [code](https://github.com/763337092/MLMLM)
-
-- <a name="OKGIT"></a> **(OKGIT)** Chandrahas, Partha P. Talukdar. "**OKGIT: Open Knowledge Graph Link Prediction with Implicit Types**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.225/) [code](https://github.com/Chandrahasd/OKGIT)
-
 - <a name="PairRE"></a> **(PairRE)** Linlin Chao, Jianshan He, Taifeng Wang, Wei Chu. "**PairRE: Knowledge Graph Embeddings via Paired Relation Vectors**". **ACL/IJCNLP  2021**. [paper](https://aclanthology.org/2021.acl-long.336/) [code](https://github.com/alipay/KnowledgeGraphEmbeddingsViaPairedRelationVectors_PairRE)
-
-- <a name="RARL"></a> **(RARL)** Zhongni Hou, Xiaolong Jin, Zixuan Li, Long Bai. "**Rule-Aware Reinforcement Learning for Knowledge Graph Reasoning**". **ACL/IJCNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-acl.412/)
 
 - <a name="SCE"></a> **(SCE)** Hidetaka Kamigaito, Katsuhiko Hayashi. "**Unified Interpretation of Softmax Cross-Entropy and Negative Sampling: With Case Study for Knowledge Graph Embedding**". **ACL/IJCNLP 2021**. [paper](https://aclanthology.org/2021.acl-long.429/)
 
@@ -1181,31 +1161,13 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="BiQUE"></a> **(BiQUE)** Jia Guo, Stanley Kok. "**BiQUE: Biquaternionic Embeddings of Knowledge Graphs**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.657/) [code](https://github.com/guojiapub/BiQUE)
 
-- <a name="C3"></a> **(C3)** Bo Ouyang, Wenbing Huang, Runfa Chen, Zhixing Tan, Yang Liu, Maosong Sun, Jihong Zhu. "**Knowledge Representation Learning with Contrastive Completion Coding**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.263/)
-
-- <a name="CET"></a> **(CET)** Weiran Pan, Wei Wei, Xian-Ling Mao. "**Context-aware Entity Typing in Knowledge Graphs**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.193/) [code](https://github.com/CCIIPLab/CET)
-
 - <a name="DataCollection"></a> **(DataCollection)** Kenneth Church, Yuchen Bian. "**Data Collection vs. Knowledge Graph Completion: What is Needed to Improve Coverage?**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.501/)
-
-- <a name="EventKE"></a> **(EventKE)** Zixuan Zhang, Hongwei Wang, Han Zhao, Hanghang Tong, Heng Ji. "**EventKE: Event-Enhanced Knowledge Graph Embedding**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.120/)
 
 - <a name="FieldE"></a> **(FieldE)** Mojtaba Nayyeri, Chengjin Xu, Franca Hoffmann, Mirza Mohtashim Alam, Jens Lehmann, Sahar Vahdati. "**Knowledge Graph Representation Learning using Ordinary Differential Equations**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.750/)
 
-- <a name="HBE"></a> **(HBE)** Zhe Pan, Peng Wang. "**Hyperbolic Hierarchy-Aware Knowledge Graph Embedding for Link Prediction**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.251/)
-
 - <a name="HittER"></a> **(HittER)** Sanxing Chen, Xiaodong Liu, Jianfeng Gao, Jian Jiao, Ruofei Zhang, Yangfeng Ji. "**HittER: Hierarchical Transformers for Knowledge Graph Embeddings**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.812/) [code](https://github.com/sanxing-chen/HittER)
 
-- <a name="KGBiasDetec"></a> **(KGBiasDetec)** Daphna Keidar, Mian Zhong, Ce Zhang, Yash Raj Shrestha, Bibek Paudel. "**Towards Automatic Bias Detection in Knowledge Graphs**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.321/)
-
-- <a name="KGE+AT"></a> **(KGE+AT)** Jinfa Yang, Yongjie Shi, Xin Tong, Robin Wang, Taiyan Chen, Xianghua Ying. "**Improving Knowledge Graph Embedding Using Affine Transformations of Entities Corresponding to Each Relation**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.46/)
-
-- <a name="P-INT"></a> **(P-INT)** Jingwen Xu, Jing Zhang, Xirui Ke, Yuxiao Dong, Hong Chen, Cuiping Li, Yongbin Liu. "**P-INT: A Path-based Interaction Model for Few-shot Knowledge Graph Completion**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.35/)
-
 - <a name="Pre-Training"></a> **(Pre-Training)** Vid Kocijan, Thomas Lukasiewicz. "**Knowledge Base Completion Meets Transfer Learning**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.524/) [code](https://github.com/vid-koci/KBCtransferlearning)
-
-- <a name="RelDiff"></a> **(RelDiff)** Hitarth Narvala, Graham McDonald, Iadh Ounis. "**RelDiff: Enriching Knowledge Graph Relation Representations for Sensitivity Classification**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.311/)
-
-- <a name="RotL"></a> **(RotL)** Kai Wang, Yu Liu, Dan Lin, Michael Sheng. "**Hyperbolic Geometry is Not Necessary: Lightweight Euclidean-Based Models for Low-Dimensional Knowledge Graph Embeddings**". **EMNLP (Findings) 2021**. [paper](https://aclanthology.org/2021.findings-emnlp.42/)
 
 - <a name="SFBR"></a> **(SFBR)** Zongwei Liang, Junan Yang, Hui Liu, Ke-Ju Huang. "**A Semantic Filter Based on Relations for Knowledge Graph Completion**". **EMNLP 2021**. [paper](https://aclanthology.org/2021.emnlp-main.625/)
 
@@ -1487,10 +1449,6 @@ Thanks for your attention and kind words! I will update KGE later.
 
 ##### EMNLP
 
-- <a name="AutoETER"></a> **(AutoETER)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu, Jingyang Li. "**AutoETER: Automated Entity Type Representation with Relation-Aware Attention for Knowledge Graph Embedding**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.105/) [code](https://github.com/ngl567/AutoETER)
-
-- <a name="B-CP"></a> **(B-CP)** Katsuhiko Hayashi, Koki Kishimoto, Masashi Shimbo. "**A Greedy Bit-flip Training Algorithm for Binarized Knowledge Graph Embeddings**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.10/)
-
 - <a name="CoDEx"></a> **(CoDEx)** Tara Safavi, Danai Koutra. "**CoDEx: A Comprehensive Knowledge Graph Completion Benchmark**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.669/)
 
 - <a name="Confidence"></a> **(Confidence)** JTara Safavi, Danai Koutra, Edgar Meij. "**Evaluating the Calibration of Knowledge Graph Embeddings for Trustworthy Link Prediction**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.667/)
@@ -1507,19 +1465,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="FAAN"></a> **(FAAN)** Jiawei Sheng, Shu Guo, Zhenyu Chen, Juwei Yue, Lihong Wang, Tingwen Liu, Hongbo Xu. "**Adaptive Attentional Network for Few-Shot Knowledge Graph Completion**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.131/) [code](https://github.com/JiaweiSheng/FAAN)
 
-- <a name="FIRE"></a> **(FIRE)** Chuxu Zhang, Lu Yu, Mandana Saebi, Meng Jiang, Nitesh V. Chawla. "**Few-Shot Multi-Hop Relation Reasoning over Knowledge Bases**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.51/)
-
 - <a name="HyperKA"></a> **(HyperKA)** Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang. "**Knowledge Association with Hyperbolic Knowledge Graph Embeddings**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.460/) [code](https://github.com/nju-websoft/HyperKA)
-
-- <a name="KEnS"></a> **(KEnS)** Xuelu Chen, Muhao Chen, Changjun Fan, Ankith Uppunda, Yizhou Sun, Carlo Zaniolo. "**Multilingual Knowledge Graph Completion via Ensemble Knowledge Transfer**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.290/)
-
-- <a name="MCMH"></a> **(MCMH)** Lu Zhang, Mo Yu, Tian Gao, Yue Yu. "**MCMH: Learning Multi-Chain Multi-Hop Rules for Knowledge Graph Reasoning**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.351/)
-
-- <a name="oDistMult"></a> **(oDistMult)** Marjan Albooyeh, Rishab Goel, Seyed Mehran Kazemi. "**Out-of-Sample Representation Learning for Knowledge Graphs**". **EMNLP (Findings) 2020**. [paper](https://www.aclweb.org/anthology/2020.findings-emnlp.241/)
-
-- <a name="PCBR"></a> **(PCBR)** Rajarshi Das, Ameya Godbole, Nicholas Monath, Manzil Zaheer, Andrew McCallum. "**Probabilistic Case-based Reasoning in Knowledge Bases**". **EMNLP (Findings) 2020**. [paper](https://aclanthology.org/2020.findings-emnlp.427/)
-
-- <a name="Pretrain-KGE"></a> **(Pretrain-KGE)** Zhiyuan Zhang, Xiaoqian Liu, Yi Zhang, Qi Su, Xu Sun, Bin He. "**Pretrain-KGE: Learning Knowledge Representation from Pretrained Language Models**". **EMNLP (Findings) 2020**. [paper](https://aclanthology.org/2020.findings-emnlp.25/)
 
 - <a name="RE-NET"></a> **(RE-NET)** Woojeong Jin, Meng Qu, Xisen Jin, Xiang Ren. "**Recurrent Event Network: Autoregressive Structure Inferenceover Temporal Knowledge Graphs**". **EMNLP 2020**. [paper](https://www.aclweb.org/anthology/2020.emnlp-main.541/) [code](https://github.com/INK-USC/RE-Net)
 

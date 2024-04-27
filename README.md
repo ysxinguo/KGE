@@ -583,9 +583,9 @@ Thanks for your attention and kind words! I will update KGE later.
 
 ##### IEEE Transactions on Neural Networks and Learning Systems
 
-- <a name="GGAE"></a> **(GGAE)** Qian Li, Daling Wang, Shi Feng, Cheng Niu, Yifei Zhang. "**Global Graph Attention Embedding Network for Relation Prediction in Knowledge Graphs**". **IEEE Transactions on Neural Networks and Learning Systems 2022**. [paper](https://ieeexplore.ieee.org/document/9452178)
+- <a name="GGAE"></a> **(GGAE)** Qian Li, Daling Wang, Shi Feng, Cheng Niu, Yifei Zhang. "**Global Graph Attention Embedding Network for Relation Prediction in Knowledge Graphs**". **IEEE Transactions on Neural Networks and Learning Systems 2022**. [paper](https://ieeexplore.ieee.org/document/9452178) [code](https://github.com/feiwangyuzhou/GGAE)
 
-- <a name="HRAN"></a> **(HRAN)** Zhifei Li, Hai Liu, Zhaoli Zhang, Tingting Liu, Neal N. Xiong. "**Learning Knowledge Graph Embedding With Heterogeneous Relation Attention Networks**". **IEEE Transactions on Neural Networks and Learning Systems 2022**. [paper](https://ieeexplore.ieee.org/document/9359364)
+- <a name="HRAN"></a> **(HRAN)** Zhifei Li, Hai Liu, Zhaoli Zhang, Tingting Liu, Neal N. Xiong. "**Learning Knowledge Graph Embedding With Heterogeneous Relation Attention Networks**". **IEEE Transactions on Neural Networks and Learning Systems 2022**. [paper](https://ieeexplore.ieee.org/document/9359364) [code](https://github.com/zhifei1993/HRAN)
 
 ##### Neural Networks
 
@@ -613,7 +613,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="BTDG"></a> **(BTDG)** Yujing Lai, Chuan Chen, Zibin Zheng, Yangqing Zhang. "**Block term decomposition with distinct time granularities for temporal knowledge graph completion**". **Expert Systems with Applications 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422004511?via%3Dihub)
 
-- <a name="ComplexGCN"></a> **(ComplexGCN)** Adnan Zeb, Summaya Saif, Junde Chen, Anwar Ul Haq, Zhiguo Gong, Defu Zhang. "**Complex graph convolutional network for link prediction in knowledge graphs**". **Expert Systems with Applications 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422002548?via%3Dihub)
+- <a name="ComplexGCN"></a> **(ComplexGCN)** Adnan Zeb, Summaya Saif, Junde Chen, Anwar Ul Haq, Zhiguo Gong, Defu Zhang. "**Complex graph convolutional network for link prediction in knowledge graphs**". **Expert Systems with Applications 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422002548?via%3Dihub) [code](https://github.com/Aazeb/ComplexGCN)
 
 - <a name="GCKG"></a> **(GCKG)** Shuanglong Yao, Dechang Pi, Junfu Chen, Yue Xu. "**GCKG: Novel Gated Convolutional embedding model for Knowledge Graphs**". **Expert Systems with Applications 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417422013252?via%3Dihub)
 
@@ -635,11 +635,11 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="CLGAT-KGC"></a> **(CLGAT-KGC)** LinYu Li, Xuan Zhang, YuBin Ma, Chen Gao, Jishu Wang, Yong Yu, Zihao Yuan, Qiuying Ma. "**A knowledge graph completion model based on contrastive learning and relation enhancement method**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122009820?via%3Dihub)
 
-- <a name="DeepER"></a> **(DeepER)** Adnan Zeb, Summaya Saif, Junde Chen, Defu Zhang. "**Learning knowledge graph embeddings by deep relational roto-reflection**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122007171?via%3Dihub)
+- <a name="DeepER"></a> **(DeepER)** Adnan Zeb, Summaya Saif, Junde Chen, Defu Zhang. "**Learning knowledge graph embeddings by deep relational roto-reflection**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122007171?via%3Dihub) [code](https://github.com/Aazeb/DeepER)
 
 - <a name="DKGE"></a> **(DKGE)** Tianxing Wu, Arijit Khan, Melvin Yong, Guilin Qi, Meng Wang. "**Efficiently embedding dynamic knowledge graphs**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122005548?via%3Dihub)
 
-- <a name="EIGAT"></a> **(EIGAT)** Yu Zhao, Huali Feng, Han Zhou, Yanruo Yang, Xingyan Chen, Ruobing Xie, Fuzhen Zhuang, Qing Li. "**EIGAT: Incorporating global information in local attention for knowledge representation learning**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010649?via%3Dihub)
+- <a name="EIGAT"></a> **(EIGAT)** Yu Zhao, Huali Feng, Han Zhou, Yanruo Yang, Xingyan Chen, Ruobing Xie, Fuzhen Zhuang, Qing Li. "**EIGAT: Incorporating global information in local attention for knowledge representation learning**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010649?via%3Dihub) [code](https://github.com/zhouhanhanhan/EIGAT)
 
 - <a name="EvoExplore"></a> **(EvoExplore)** Jiasheng Zhang, Shuang Liang, Yongpan Sheng, Jie Shao. "**Temporal knowledge graph representation learning with local and global evolutions**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006141?via%3Dihub) [code](https://github.com/zjs123/EvoExplore)
 
@@ -941,7 +941,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="DLCC"></a> **(DLCC)** Jan Portisch, Heiko Paulheim. "**The DLCC Node Classification Benchmark for Analyzing Knowledge Graph Embeddings**". **ISWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_34)
 
-- <a name="HKGN"></a> **(HKGN)** Xiyang Liu, Tong Zhu, Huobin Tan, Richong Zhang. "**Heterogeneous Graph Neural Network with Hypernetworks for Knowledge Graph Embedding**". **ISWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_17)
+- <a name="HKGN"></a> **(HKGN)** Xiyang Liu, Tong Zhu, Huobin Tan, Richong Zhang. "**Heterogeneous Graph Neural Network with Hypernetworks for Knowledge Graph Embedding**". **ISWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_17) [code](https://github.com/liuxiyang641/HKGN)
 
 - <a name="HybridFC"></a> **(HybridFC)** Umair Qudus, Michael Röder, Muhammad Saleem, Axel-Cyrille Ngonga Ngomo. "**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**". **ISWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_27)
 

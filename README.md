@@ -727,25 +727,13 @@ Thanks for your attention and kind words! I will update KGE later.
 
 #### Conference
 
-##### ICLR
-
-- <a name="MGNN"></a> **(MGNN)** David Jaime Tena Cucala, Bernardo Cuenca Grau, Egor V. Kostylev, Boris Motik. "**Explainable GNN-Based Models over Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=CrCvGNHAIrz)
-
-- <a name="NodePiece"></a> **(NodePiece)** Mikhail Galkin, Etienne G. Denis, Jiapeng Wu, William L. Hamilton. "**NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=xMJWUKJnFSw)
-
 ##### AAAI
 
 - <a name="BoxTE"></a> **(BoxTE)** Johannes Messner, Ralph Abboud, Ismail Ilkan Ceylan. "**Temporal Knowledge Graph Completion Using Box Embeddings**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20746)
 
-- <a name="CFAG"></a> **(CFAG)** Changjian Wang, Xiaofei Zhou, Shirui Pan, Linhua Dong, Zeliang Song, Ying Sha. "**Exploring Relational Semantics for Inductive Knowledge Graph Completion**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20337)
-
 - <a name="CURL"></a> **(CURL)** Denghui Zhang, Zixuan Yuan, Hao Liu, Xiaodong Lin, Hui Xiong. "**Learning to Walk with Dual Agents for Knowledge Graph Reasoning**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20538) [code](https://github.com/RutgersDM/DKGR)
 
-- <a name="ER"></a> **(ER)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Qingming Huang. "**ER: Equivariance Regularizer for Knowledge Graph Completion**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20490) [code](https://github.com/Lion-ZS/ER)
-
 - <a name="GIE"></a> **(GIE)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, Qingming Huang. "**Geometry Interaction Knowledge Graph Embeddings**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20491)
-
-- <a name="PU Learning"></a> **(PU Learning)** Jonas Schouterden, Jessa Bekker, Jesse Davis, Hendrik Blockeel. "**Unifying Knowledge Base Completion with PU Learning to Mitigate the Observation Bias**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20332) [code](https://github.com/ML-KULeuven/KBC-as-PU-Learning)
 
 - <a name="SE-GNN"></a> **(SE-GNN)** Ren Li, Yanan Cao, Qiannan Zhu, Guanqun Bi, Fang Fang, Yi Liu, Qian Li. "**How Does Knowledge Graph Embedding Extrapolate to Unseen Data: A Semantic Evidence View**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20521) [code](https://github.com/renli1024/SE-GNN)
 
@@ -753,35 +741,45 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="TLogic"></a> **(TLogic)** Yushan Liu, Yunpu Ma, Marcel Hildebrandt, Mitchell Joblin, Volker Tresp. "**TLogic: Temporal Logical Rules for Explainable Link Forecasting on Temporal Knowledge Graphs**". **AAAI 2022**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/20330) [code](https://github.com/liu-yushan/TLogic)
 
-##### NeurIPS
-
-- <a name="IBL"></a> **(IBL)** Wanyun Cui, Xingran Chen. "**Instance-based Learning for Knowledge Base Completion**". **NeurIPS 2022**. [paper](https://openreview.net/forum?id=1-F7HbLInPy)
-
-- <a name="MetaTKGR"></a> **(MetaTKGR)** Ruijie Wang, zheng li, Dachun Sun, Shengzhong Liu, Jinning Li, Bing Yin, Tarek Abdelzaher. "**Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graphs**". **NeurIPS 2022**. [paper](https://openreview.net/forum?id=1LmgISIDZJ)
-
-- <a name="Open-World"></a> **(Open-World)** Haotong Yang, Zhouchen Lin, Muhan Zhang. "**Rethinking Knowledge Graph Evaluation Under the Open-World Assumption**". **NeurIPS 2022**. [paper](https://openreview.net/forum?id=5xiLuNutzJG)
-
-- <a name="OTKGE"></a> **(OTKGE)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, Qingming Huang. "**OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport**". **NeurIPS 2022**. [paper](https://openreview.net/forum?id=gbXqMdxsZIP)
-
 ##### ACL
 
 - <a name="CAKE"></a> **(CAKE)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**CAKE: A Scalable Commonsense-Aware Framework For Multi-View Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.205/) [code](https://github.com/ngl567/CAKE)
 
 - <a name="CEN"></a> **(CEN)** Zixuan Li, Saiping Guan, Xiaolong Jin, Weihua Peng, Yajuan Lyu, Yong Zhu, Long Bai, Wei Li, Jiafeng Guo, Xueqi Cheng. "**Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-short.32/) [code](https://github.com/lee-zix/cen)
 
-- <a name="GenderBias"></a> **(GenderBias)** Yupei Du, Qi Zheng, Yuanbin Wu, Man Lan, Yan Yang, Meirong Ma. "**Understanding Gender Bias in Knowledge Base Embeddings**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.98/)
-
 - <a name="KGT5"></a> **(KGT5)** Apoorv Saxena, Adrian Kochsiek, Rainer Gemulla. "**Sequence-to-Sequence Knowledge Graph Completion and Question Answering**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.201/) [code](https://github.com/apoorvumang/kgt5)
-
-- <a name="KGTuner"></a> **(KGTuner)** Yongqi Zhang, Zhanke Zhou, Quanming Yao, Yong Li. "**Efficient Hyper-parameter Search for Knowledge Graph Embedding**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.194/) [code](https://github.com/AutoML-Research/KGTuner)
 
 - <a name="RotateQVS"></a> **(RotateQVS)** Kai Chen, Ye Wang, Yitong Li, Aiping Li. "**RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.402/)
 
 - <a name="SimKGC"></a> **(SimKGC)** Liang Wang, Wei Zhao, Zhuoyu Wei, Jingming Liu. "**SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.295/) [code](https://github.com/intfloat/SimKGC)
 
-##### ICML
+- <a name="SS-AGA"></a> **(SS-AGA)** Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, Wei Wang. "**Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.36/)
 
-- <a name="CBR-SUBG"></a> **(CBR-SUBG)** Rajarshi Das, Ameya Godbole, Ankita Naik, Elliot Tower, Manzil Zaheer, Robin Jia, Hannaneh Hajishirzi, Andrew McCallum. "**Knowledge Base Question Answering by Case-based Reasoning over Subgraphs**". **ICML 2022**. [paper](https://proceedings.mlr.press/v162/das22a.html)
+##### CIKM
+
+- <a name="DA-Net"></a> **(DA-Net)** Kangzheng Liu, Feng Zhao, Hongxu Chen, Yicong Li, Guandong Xu, Hai Jin. "**DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557280)
+
+##### COLING
+
+- <a name="KG-S2S"></a> **(KG-S2S)** Chen Chen, Yufei Wang, Bing Li, Kwok-Yan Lam. "**Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.352/)
+
+- <a name="LASSS"></a> **(LASS)** Jianhao Shen, Chenguang Wang, Linyuan Gong, Dawn Song. "**Joint Language Semantic and Structure Embedding for Knowledge Graph Completion**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.171/)
+
+##### EMNLP
+
+- <a name="GammaE"></a> **(GammaE)** Dong Yang, Peijun Qing, Yang Li, Haonan Lu, Xiaodong Lin. "**GammaE: Gamma Embeddings for Logical Queries on Knowledge Graphs**". **EMNLP 2022**. [paper](https://aclanthology.org/2022.emnlp-main.47/)
+
+- <a name="GHT"></a> **(GHT)** Haohai Sun, Shangyi Geng, Jialun Zhong, Han Hu, Kun He. "**Graph Hawkes Transformer for Extrapolated Reasoning on Temporal Knowledge Graphs**". **EMNLP 2022**. [paper](https://aclanthology.org/2022.emnlp-main.507/)
+
+- <a name="MoSE"></a> **(MoSE)** Yu Zhao, Xiangrui Cai, Yike Wu, Haiwei Zhang, Ying Zhang, Guoqing Zhao, Ning Jiang. "**MoSE: Modality Split and Ensemble for Multimodal Knowledge Graph Completion**". **EMNLP 2022**. [paper](https://aclanthology.org/2022.emnlp-main.719/)
+
+##### ICLR
+
+- <a name="MGNN"></a> **(MGNN)** David Jaime Tena Cucala, Bernardo Cuenca Grau, Egor V. Kostylev, Boris Motik. "**Explainable GNN-Based Models over Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=CrCvGNHAIrz)
+
+- <a name="NodePiece"></a> **(NodePiece)** Mikhail Galkin, Etienne G. Denis, Jiapeng Wu, William L. Hamilton. "**NodePiece: Compositional and Parameter-Efficient Representations of Large Knowledge Graphs**". **ICLR 2022**. [paper](https://openreview.net/forum?id=xMJWUKJnFSw)
+
+##### ICML
 
 - <a name="HousE"></a> **(HousE)** Rui Li, Jianan Zhao, Chaozhuo Li, Di He, Yiqi Wang, Yuming Liu, Hao Sun, Senzhang Wang, Weiwei Deng, Yanming Shen, Xing Xie, Qi Zhang. "**HousE: Knowledge Graph Embedding with Householder Parameterization**". **ICML 2022**. [paper](https://proceedings.mlr.press/v162/li22ab.html) [code](https://github.com/rui9812/HousE)
 
@@ -789,17 +787,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 ##### IJCAI
 
-- <a name="Adversarial Explanations"></a> **(Adversarial Explanations)** Patrick Betz, Christian Meilicke, Heiner Stuckenschmidt. "**Adversarial Explanations for Knowledge Graph Embeddings**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/391)
-
-- <a name="KGA"></a> **(KGA)** Jiang Wang, Filip Ilievski, Pedro A. Szekely, Ke-Thia Yao. "**Augmenting Knowledge Graphs for Better Link Prediction**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/316)
-
-- <a name="MEIM"></a> **(MEIM)** Hung Nghiep Tran, Atsuhiro Takasu. "**MEIM: Multi-partition Embedding Interaction Beyond Block Term Format for Efficient and Expressive Link Prediction**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/314) [code](https://github.com/tranhungnghiep/MEIM-KGE)
-
 - <a name="PUDA"></a> **(PUDA)** Zhenwei Tang, Shichao Pei, Zhao Zhang, Yongchun Zhu, Fuzhen Zhuang, Robert Hoehndorf, Xiangliang Zhang. "**Positive-Unlabeled Learning with Adversarial Data Augmentation for Knowledge Graph Completion**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/312) [code](https://github.com/lilv98/PUDA-IJCAI22)
-
-- <a name="REP"></a> **(REP)** Huijuan Wang, Siming Dai, Weiyue Su, Hui Zhong, Zeyang Fang, Zhengjie Huang, Shikun Feng, Zeyu Chen, Yu Sun, Dianhai Yu. "**Simple and Effective Relation-based Embedding Propagation for Knowledge Representation Learning**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/382) [code](https://github.com/PaddlePaddle/PGL/tree/d5f31784b1b6f2d5117537908acde6625b9abeef/apps/Graph4KG/examples/REP)
-
-- <a name="rGalT"></a> **(rGalT)** Yifu Gao, Linhui Feng, Zhigang Kan, Yi Han, Linbo Qiao, Dongsheng Li. "**Modeling Precursors for Temporal Knowledge Graph Reasoning via Auto-encoder Structure**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/284)
 
 - <a name="SNRI"></a> **(SNRI)** Xiaohan Xu, Peng Zhang, Yongquan He, Chengpeng Chao, Chaoyang Yan. "**Subgraph Neighboring Relations Infomax for Inductive Link Prediction on Knowledge Graphs**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/325)
 
@@ -807,67 +795,11 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="TiRGN"></a> **(TiRGN)** Yujia Li, Shiliang Sun, Jing Zhao. "**TiRGN: Time-Guided Recurrent Graph Network with Local-Global Historical Patterns for Temporal Knowledge Graph Reasoning**". **IJCAI 2022**. [paper](https://www.ijcai.org/proceedings/2022/299) [code](https://github.com/Liyyy2122/TiRGN)
 
-##### EMNLP
+##### ISWC
 
-- <a name="ALRE-IR"></a> **(ALRE-IR)** Xin Mei∗, Libin Yang∗, Zuowei Jiang, Xiaoyan Cai. "**An Adaptive Logical Rule Embedding Model for Inductive Reasoning over Temporal Knowledge Graphs**". **EMNLP 2022**. [paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.493/)
-
-- <a name="CIAN"></a> **(CIAN)** Yuling Li, Kui Yu, Xiaoling Huang, Yuhong Zhang. "**Learning Inter-Entity-Interaction for Few-Shot Knowledge Graph Completion**". **EMNLP 2022**. [paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.524/)
-
-- <a name="ComplexHyperbolicKGE"></a> **(ComplexHyperbolicKGE)** Huiru Xiao, Xin Liu, Yangqiu Song, Ginny Wong, Simon See. "**Complex Hyperbolic Knowledge Graph Embeddings with Fast Fourier Transform**". **EMNLP 2022**. [paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.349/)
-
-##### EMNLP
-
-- <a name="ALRE-IR"></a> **(ALRE-IR)** Xin Mei∗, Libin Yang∗, Zuowei Jiang, Xiaoyan Cai. "**An Adaptive Logical Rule Embedding Model for Inductive Reasoning over Temporal Knowledge Graphs**". **EMNLP 2022**. [paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.493/)
-
-- <a name="CIAN"></a> **(CIAN)** Yuling Li, Kui Yu, Xiaoling Huang, Yuhong Zhang. "**Learning Inter-Entity-Interaction for Few-Shot Knowledge Graph Completion**". **EMNLP 2022**. [paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.524/)
-
-- <a name="ComplexHyperbolicKGE"></a> **(ComplexHyperbolicKGE)** Huiru Xiao, Xin Liu, Yangqiu Song, Ginny Wong, Simon See. "**Complex Hyperbolic Knowledge Graph Embeddings with Fast Fourier Transform**". **EMNLP 2022**. [paper](https://preview.aclanthology.org/emnlp-22-ingestion/2022.emnlp-main.349/)
-
-##### COLING
-
-- <a name="DMoG"></a> **(DMoG)** Ran Song, Shizhu He, Suncong Zheng, Shengxiang Gao, Kang Liu, Zhengtao Yu, Jun Zhao. "**Decoupling Mixture-of-Graphs: Unseen Relational Learning for Knowledge Graph Completion by Fusing Ontology and Textual Experts**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.196/)
-
-- <a name="EngineKG"></a> **(EngineKG)** Guanglin Niu, Bo Li, Yongfei Zhang, Shiliang Pu. "**Perform like an Engine: A Closed-Loop Neural-Symbolic Learning Framework for Knowledge Graph Inference**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.119/)
-
-- <a name="Eureka"></a> **(Eureka)** Alex X. Zhang, Xun Liang, Bo Wu, Xiangping Zheng, Sensen Zhang, Yuhui Guo, Jun Wang, Xinyao Liu. "**Eureka: Neural Insight Learning for Knowledge Graph Reasoning**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.398/)
-
-- <a name="FKGC+DA"></a> **(FKGC+DA)** Yuanzhou Yao, Zhao Zhang, Yongjun Xu, Chao Li. "**Data Augmentation for Few-Shot Knowledge Graph Completion from Hierarchical Perspective**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.220/)
-
-- <a name="HRQE"></a> **(HRQE)** Jinfa Yang, Xianghua Ying, Yongjie Shi, Xin Tong, Ruibin Wang, Taiyan Chen, Bowei Xing. "**Learning Hierarchy-Aware Quaternion Knowledge Graph Embeddings with Representing Relations as 3D Rotations**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.175/)
-
-- <a name="KGE-CL"></a> **(KGE-CL)** Zhiping Luo, Wentao Xu, Weiqing Liu, Jiang Bian, Jian Yin, Tie-Yan Liu. "**KGE-CL: Contrastive Learning of Tensor Decomposition Based Knowledge Graph Embeddings**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.229/)
-
-- <a name="KG-S2S"></a> **(KG-S2S)** Chen Chen, Yufei Wang, Bing Li, Kwok-Yan Lam. "**Knowledge Is Flat: A Seq2Seq Generative Framework for Various Knowledge Graph Completion**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.352/)
-
-- <a name="LASSS"></a> **(LASS)** Jianhao Shen, Chenguang Wang, Linyuan Gong, Dawn Song. "**Joint Language Semantic and Structure Embedding for Knowledge Graph Completion**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.171/)
-
-- <a name="OpticE"></a> **(OpticE)** Xiangyu Gui, Feng Zhao, Langjunqing Jin, Hai Jin. "**OpticE: A Coherence Theory-Based Model for Link Prediction**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.433/)
-
-- <a name="RotateCT"></a> **(RotateCT)** Yao Dong, Lei Wang, Ji Xiang, Xiaobo Guo, Yuqiang Xie. "**RotateCT: Knowledge Graph Embedding by Rotation and Coordinate Transformation in Complex Space**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.436/)
-
-- <a name="Ruleformer"></a> **(Ruleformer)** Zezhong Xu, Peng Ye, Hui Chen, Meng Zhao, Huajun Chen, Wen Zhang. "**Ruleformer: Context-aware Rule Mining over Knowledge Graph**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.225/)
-
-- <a name="TERP"></a> **(TERP)** Zile Qiao, Wei Ye, Tong Zhang, Tong Mo, Weiping Li, Shikun Zhang. "**Exploiting Hybrid Semantics of Relation Paths for Multi-hop Question Answering over Knowledge Graphs**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.156/)
-
-- <a name="TKGC-AGP"></a> **(TKGC-AGP)** Linhai Zhang, Deyu Zhou. "**Temporal Knowledge Graph Completion with Approximated Gaussian Process Embedding**". **COLING 2022**. [paper](https://aclanthology.org/2022.coling-1.416/)
-
-##### KR
-
-- <a name="TyRuLe"></a> **(TyRuLe)** Hong Wu, Zhe Wang, Kewen Wang, Yi-Dong Shen. "**Learning Typed Rules over Knowledge Graphs**". **KR 2022**. [paper](https://proceedings.kr.org/2022/51/)
-
-##### NAACL-HLT
-
-- <a name="LDP"></a> **(LDP)** Huda Hakami, Mona Hakami, Angrosh Mandya, Danushka Bollegala. "**Learning to Borrow- Relation Representation for Without-Mention Entity-Pairs for Knowledge Graph Completion**". **NAACL-HLT 2022**. [paper](https://aclanthology.org/2022.naacl-main.209/) [code](https://github.com/huda-hakami/learning-to-borrow-for-kgs)
-
-##### SIGMOD
-
-- <a name="CompactWalks"></a> **(CompactWalks)** Pei-Yu Hou, Daniel Robert Korn, Cleber C. Melo-Filho, David R. Wright, Alexander Tropsha, Rada Chirkova. "**Compact Walks: Taming Knowledge-Graph Embeddings with Domain- and Task-Specific Pathways**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517903) [code](https://github.com/DnlRKorn/sg_regex)
-
-- <a name="Kelpie"></a> **(Kelpie)** Andrea Rossi, Donatella Firmani, Paolo Merialdo, Tommaso Teofili. "**Explaining Link Prediction Systems based on Knowledge Graph Embeddings**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517887)
+- <a name="BoxEL"></a> **(BoxEL)** Bo Xiong, Nico Potyka, Trung-Kien Tran, Mojtaba Nayyeri, Steffen Staab. "**Faithful Embeddings for Eℒ++ Knowledge Bases**". **ISWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_2)
 
 ##### KDD
-
-- <a name="DGS"></a> **(DGS)** Roshni G. Iyer, Yunsheng Bai, Wei Wang, Yizhou Sun. "**Dual-Geometric Space Embedding Model for Two-View Knowledge Graphs**". **KDD 2022**. [paper](https://dl.acm.org/doi/10.1145/3534678.3539350)
 
 - <a name="RLogic"></a> **(RLogic)** Kewei Cheng, Jiahao Liu, Wei Wang, Yizhou Sun. "**RLogic: Recursive Logical Rule Learning from Knowledge Graphs**". **KDD 2022**. [paper](https://dl.acm.org/doi/10.1145/3534678.3539421)
 
@@ -875,39 +807,23 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="UltraE"></a> **(UltraE)** Bo Xiong, Shichao Zhu, Mojtaba Nayyeri, Chengjin Xu, Shirui Pan, Chuan Zhou, Steffen Staab. "**Ultrahyperbolic Knowledge Graph Embeddings**". **KDD 2022**. [paper](https://dl.acm.org/doi/10.1145/3534678.3539333)
 
-##### ICDE
+##### NeurIPS
 
-- <a name="Evoda"></a> **(Evoda)** Lianlong Wu, Emanuel Sallinger, Evgeny Sherkhonov, Sahar Vahdati, Georg Gottlob. "**Rule Learning over Knowledge Graphs with Genetic Logic Programming**". **ICDE 2022**. [paper](https://ieeexplore.ieee.org/document/9835403)
+- <a name="MetaTKGR"></a> **(MetaTKGR)** Ruijie Wang, zheng li, Dachun Sun, Shengzhong Liu, Jinning Li, Bing Yin, Tarek Abdelzaher. "**Learning to Sample and Aggregate: Few-shot Reasoning over Temporal Knowledge Graphs**". **NeurIPS 2022**. [paper](https://openreview.net/forum?id=1LmgISIDZJ)
 
-- <a name="HET-KG"></a> **(HET-KG)** Sicong Dong, Xupeng Miao, Pengkai Liu, Xin Wang, Bin Cui, Jianxin Li. "**HET-KG: Communication-Efficient Knowledge Graph Embedding Training via Hotness-Aware Cache**". **ICDE 2022**. [paper](https://ieeexplore.ieee.org/document/9835364) [code](https://github.com/RweBs/HotKE)
-
-##### CIKM
-
-- <a name="BKENE"></a> **(BKENE)** Jun Seon Kim, Seong-Jin Ahn, Myoung Ho Kim. "**Bootstrapped Knowledge Graph Embedding based on Neighbor Expansion**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557555)
-
-- <a name="CKBC"></a> **(CKBC)** Jinhao Ju, Deqing Yang, Jingping Liu. "**Commonsense Knowledge Base Completion with Relational Graph Attention Network and Pre-trained Language Model**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557564)
-
-- <a name="CoLE"></a> **(CoLE)** Yang Liu, Zequn Sun, Guangyao Li, Wei Hu. "**I Know What You Do Not Know: Knowledge Graph Embedding via Co-distillation Learning**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557355)
-
-- <a name="DA-Net"></a> **(DA-Net)** Kangzheng Liu, Feng Zhao, Hongxu Chen, Yicong Li, Guandong Xu, Hai Jin. "**DA-Net: Distributed Attention Network for Temporal Knowledge Graph Reasoning**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557280)
-
-- <a name="HyperMLN"></a> **(HyperMLN)** Zirui Chen, Xin Wang, Chenxu Wang, Jianxin Li. "**Explainable Link Prediction in Knowledge Hypergraphs**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557316)
-
-- <a name="MBE"></a> **(MBE)** Yuanning Cui, Yuxin Wang, Zequn Sun, Wenqiang Liu, Yiqiao Jiang, Kexin Han, Wei Hu. "**Inductive Knowledge Graph Reasoning for Multi-batch Emerging Entities**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557361)
-
-- <a name="TLT-KGE"></a> **(TLT-KGE)** Fuwei Zhang, Zhao Zhang, Xiang Ao, Fuzhen Zhuang, Yongjun Xu, Qing He. "**Along the Time: Timeline-traced Embedding for Temporal Knowledge Graph Completion**". **CIKM 2022**. [paper](https://dl.acm.org/doi/10.1145/3511808.3557233)
+- <a name="OTKGE"></a> **(OTKGE)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Yuan He, Xiaochun Cao, Qingming Huang. "**OTKGE: Multi-modal Knowledge Graph Embeddings via Optimal Transport**". **NeurIPS 2022**. [paper](https://openreview.net/forum?id=gbXqMdxsZIP)
 
 ##### SIGIR
 
 - <a name="ConGLR"></a> **(ConGLR)** Qika Lin, Jun Liu, Fangzhi Xu, Yudai Pan, Yifan Zhu, Lingling Zhang, Tianzhe Zhao. "**Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531996)
 
-- <a name="KGC Sparsity"></a> **(KGC Sparsity)** Ying Zhou, Xuanang Chen, Ben He, Zheng Ye, Le Sun. "**Re-thinking Knowledge Graph Completion Evaluation from an Information Retrieval Perspective**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3532052) [code](https://github.com/zhouying20/kgc-sparsity)
-
 - <a name="MKGformer"></a> **(MKGformer)** Xiang Chen, Ningyu Zhang, Lei Li, Shumin Deng, Chuanqi Tan, Changliang Xu, Fei Huang, Luo Si, Huajun Chen. "**Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531992) [code](https://github.com/zjunlp/MKGformer)
 
 - <a name="MorsE"></a> **(MorsE)** Mingyang Chen, Wen Zhang, Yushan Zhu, Hongting Zhou, Zonggang Yuan, Changliang Xu, Huajun Chen. "**Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531757) [code](https://github.com/zjukg/MorsE)
 
-- <a name="NeuralKG"></a> **(NeuralKG)** Wen Zhang, Xiangnan Chen, Zhen Yao, Mingyang Chen, Yushan Zhu, Hongtao Yu, Yufeng Huang, Yajing Xu, Ningyu Zhang, Zezhong Xu, Zonggang Yuan, Feiyu Xiong, Huajun Chen. "**NeuralKG: An Open Source Library for Diverse Representation Learning of Knowledge Graphs**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531669) [code](https://github.com/zjukg/NeuralKG)
+##### SIGMOD
+
+- <a name="Kelpie"></a> **(Kelpie)** Andrea Rossi, Donatella Firmani, Paolo Merialdo, Tommaso Teofili. "**Explaining Link Prediction Systems based on Knowledge Graph Embeddings**". **SIGMOD 2022**. [paper](https://dl.acm.org/doi/10.1145/3514221.3517887)
 
 ##### WSDM
 
@@ -919,65 +835,11 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="NoGE"></a> **(NoGE)** Dai Quoc Nguyen, Vinh Tong, Dinh Q. Phung, Dat Quoc Nguyen. "**Node Co-occurrence based Graph Neural Networks for Knowledge Graph Link Prediction**". **WSDM 2022**. [paper](https://dl.acm.org/doi/10.1145/3488560.3502183) [code](https://github.com/daiquocnguyen/GNN-NoGE)
 
-##### DASFAA
-
-- <a name="ARIM-TE"></a> **(ARIM-TE)** Tingyi Zhang, Zhixu Li, Jiaan Wang, Jianfeng Qu, Lin Yuan, An Liu, Lei Zhao, Zhigang Chen. "**Aligning Internal Regularity and External Influence of Multi-granularity for Temporal Knowledge Graph Embedding**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00129-1_10)
-
-- <a name="CoCuKGR"></a> **(CoCuKGR)** Dan Shi, Anchen Li, Bo Yang. "**Counterfactual-Guided and Curiosity-Driven Multi-hop Reasoning over Knowledge Graph**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_13)
-
-- <a name="ExKGR"></a> **(ExKGR)** Cheng Yan, Feng Zhao, Hai Jin. "**ExKGR: Explainable Multi-hop Reasoning for Evolving Knowledge Graph**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_11)
-
-- <a name="FactE"></a> **(FactE)** Xin Lv, Jiaxin Shi, Shulin Cao, Lei Hou, Juanzi Li. "**Triple-as-Node Knowledge Graph and Its Embeddings**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_8)
-
-- <a name="Sensitivity"></a> **(Sensitivity)** Han Yang, Leilei Zhang, Fenglong Su, Jinhui Pang. "**What Affects the Performance of Models? Sensitivity Analysis of Knowledge Graph Embedding**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_55)
-
-- <a name="TRHyTE"></a> **(TRHyTE)** Lin Yuan, Zhixu Li, Jianfeng Qu, Tingyi Zhang, An Liu, Lei Zhao, Zhigang Chen. "**TRHyTE: Temporal Knowledge Graph Embedding Based on Temporal-Relational Hyperplanes**". **DASFAA 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-00123-9_10)
-
-##### ISWC
-
-- <a name="μKG"></a> **(μKG)** Xindi Luo, Zequn Sun, Wei Hu. "**μKG: A Library for Multi-source Knowledge Graph Embeddings and Applications**". **ISWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_35)
-
-- <a name="BoxEL"></a> **(BoxEL)** Bo Xiong, Nico Potyka, Trung-Kien Tran, Mojtaba Nayyeri, Steffen Staab. "**Faithful Embeddings for Eℒ++ Knowledge Bases**". **ISWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_2)
-
-- <a name="DLCC"></a> **(DLCC)** Jan Portisch, Heiko Paulheim. "**The DLCC Node Classification Benchmark for Analyzing Knowledge Graph Embeddings**". **ISWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_34)
-
-- <a name="HKGN"></a> **(HKGN)** Xiyang Liu, Tong Zhu, Huobin Tan, Richong Zhang. "**Heterogeneous Graph Neural Network with Hypernetworks for Knowledge Graph Embedding**". **ISWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_17) [code](https://github.com/liuxiyang641/HKGN)
-
-- <a name="HybridFC"></a> **(HybridFC)** Umair Qudus, Michael Röder, Muhammad Saleem, Axel-Cyrille Ngonga Ngomo. "**HybridFC: A Hybrid Fact-Checking Approach for Knowledge Graphs**". **ISWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_27)
-
-- <a name="SANe"></a> **(SANe)** Yancong Li, Xiaoming Zhang, Bo Zhang, Haiying Ren. "**Each Snapshot to Each Space: Space Adaptation for Temporal Knowledge Graph Completion**". **ISWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-19433-7_15)
-
-##### EDBT
-
-- <a name="KGE-Ray"></a> **(KGE-Ray)** Nasrullah Sheikh, Xiao Qin, Yaniv Gur, Berthold Reinwald. "**Distributed Training of Knowledge Graph Embedding Models using Ray**". **EDBT 2022**. [paper](https://openproceedings.org/2022/conf/edbt/paper-199.pdf)
-
-##### SDM
-
-- <a name="ADK-KG"></a> **(ADK-KG)** Yiming Zhang, Yiyue Qian, Yanfang Ye, Chuxu Zhang. "**Adapting Distilled Knowledge for Few-shot Relation Reasoning over Knowledge Graphs**". **SDM 2022**. [paper](https://epubs.siam.org/doi/10.1137/1.9781611977172.75)
-
-##### ESWC
-
-- <a name="Aggregation"></a> **(Aggregation)** Patrick Betz, Christian Meilicke, Heiner Stuckenschmidt. "**Supervised Knowledge Aggregation for Knowledge Graph Completion**". **ESWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-06981-9_5)
-
-- <a name="RACE2T"></a> **(RACE2T)** Changlong Zou, Jingmin An, Guanyu Li. "**Knowledge Graph Entity Type Prediction with Relational Aggregation Graph Attention Network**". **ESWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-06981-9_3)
-
-- <a name="ST-KGE"></a> **(ST-KGE)** Mojtaba Nayyeri, Sahar Vahdati, Md Tansen Khan, Mirza Mohtashim Alam, Lisa Wenige, Andreas Behrend, Jens Lehmann. "**Dihedron Algebraic Embeddings for Spatio-Temporal Knowledge Graph Completion**". **ESWC 2022**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-06981-9_15)
-
 ##### WWW
-
-- <a name="DiriE"></a> **(DiriE)** Feiyang Wang, Zhongbao Zhang, Li Sun, Junda Ye, Yang Yan. "**DiriE: Knowledge Graph Embedding with Dirichlet Distribution**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3512028)
 
 - <a name="GCN4KGC"></a> **(GCN4KGC)** Zhanqiu Zhang, Jie Wang, Jieping Ye, Feng Wu. "**Rethinking Graph Convolutional Networks in Knowledge Graph Completion**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511923) [code](https://github.com/MIRALab-USTC/GCN4KGC)
 
-- <a name="HaLE"></a> **(HaLE)** Kai Wang, Yu Liu, Quan Z. Sheng. "**Swift and Sure: Hardness-aware Contrastive Learning for Low-dimensional Knowledge Graph Embeddings**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511927)
-
 - <a name="RED-GNN"></a> **(RED-GNN)** Yongqi Zhang, Quanming Yao. "**Knowledge Graph Reasoning with Relational Digraph**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3512008) [code](https://github.com/AutoML-Research/RED-GNN)
-
-- <a name="TKGC"></a> **(TKGC)** Jiacheng Huang, Yao Zhao, Wei Hu, Zhen Ning, Qijin Chen, Xiaoxia Qiu, Chengfu Huo, Weijun Ren. "**Trustworthy Knowledge Graph Completion Based on Multi-sourced Noisy Datas**". **WWW 2022**. [paper](https://dl.acm.org/doi/10.1145/3485447.3511938) [code](https://github.com/nju-websoft/TKGC)
-
-##### ICASSP
-
-- <a name="SGI"></a> **(SGI)** Heeyoung Kwak, Hyunkyung Bae, Kyomin Jung. "**Subgraph Representation Learning with Hard Negative Samples for Inductive Link Prediction**". **ICASSP 2022**. [paper](https://ieeexplore.ieee.org/document/9747485)
 
 ### 2021
 

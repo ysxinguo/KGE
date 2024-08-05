@@ -1031,31 +1031,21 @@ Thanks for your attention and kind words! I will update KGE later.
 
 #### Journal
 
+##### Expert Systems with Applications
+
+- Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park. "**Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism**". **Expert Systems with Applications 2020**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419306785?via%3Dihub)
+
 ##### Information Sciences
 
 - <a name="FGEM"></a> **(FGEM)** Richong Zhang, Yongyi Mao, Weihua Zhao. "**Knowledge graphs completion via probabilistic reasoning**". **Information Sciences 2020**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0020025520300918?via%3Dihub)
 
 - <a name="MAKR"></a> **(MAKR)** Yongming Han, GuoFei Chen, Zhongkun Li, Zhiqiang Geng, Fang Li, Bo Ma. "**An asymmetric knowledge representation learning in manifold space**". **Information Sciences 2020**. [paper](https://doi.org/10.1016/j.ins.2020.04.036)
 
-##### IEEE Transactions on Knowledge and Data Engineering
-
-- <a name="KGLG"></a> **(KGLG)** Takuma Ebisu, Ryutaro Ichise. "**Generalized Translation-Based Embedding of Knowledge Graph**". **IEEE Transactions on Knowledge and Data Engineering 2020**. [paper](https://doi.org/10.1109/TKDE.2019.2893920)
-
-##### Expert Systems with Applications
-
-- Batselem Jagvaral, Wan-Kon Lee, Jae-Seung Roh, Min-Sung Kim, Young-Tack Park. "**Path-based reasoning approach for knowledge graph completion using CNN-BiLSTM with attention mechanism**". **Expert Systems with Applications 2020**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417419306785?via%3Dihub)
-
-- <a name="SDT"></a> **(SDT)** Xiaojun Chen, Shengbin Jia, Ling Ding, Hong Shen, Yang Xiang. "**SDT: An integrated model for open-world knowledge graph reasoning**". **Expert Systems with Applications 2020**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417420306904?via%3Dihub)
-
 ##### Knowledge Based Systems
 
 - <a name="ADRL"></a> **(ADRL)** Qi Wang, Yongsheng Hao, Jie Cao. "**ADRL: An attention-based deep reinforcement learning framework for knowledge graph reasoning**". **Knowledge Based Systems 2020**. [paper](https://doi.org/10.1016/j.knosys.2020.105910)
 
-- <a name="ConnectE"></a> **(ConnectE)** Yu Zhao, Anxiang Zhang, Huali Feng, Qing Li, Patrick Gallinari, Fuji Ren. "**Knowledge graph entity typing via learning connecting embeddings**". **Knowledge Based Systems 2020**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120301921?via%3Dihub)
-
 - <a name="GRL"></a> **(GRL)** Qi Wang, Yuede Ji, Yongsheng Hao, Jie Cao. "**GRL: Knowledge graph completion with GAN-based reinforcement learning**". **Knowledge Based Systems 2020**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705120305505?via%3Dihub)
-
-- <a name="TransE&RW"></a> **(TransE&RW)** Chen Li, Xutan Peng, Shanghang Zhang, Hao Peng, Philip S. Yu, Min He, Linfen g Du, Lihong Wang. "**Modeling relation paths for knowledge base completion via joint adversarial training"**. **Knowledge Based Systems 2020**. [paper](https://doi.org/10.1016/j.knosys.2020.105865)
 
 - <a name="WDGAN"></a> **(WDGAN)** Yuanfei Dai, Shiping Wang, Xing Chen, Chaoyang Xu, Wenzhong Guo. "**Generative adversarial networks based on Wasserstein distance for knowledge graph embeddings**". **Knowledge Based Systems 2020**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705119305143?via%3Dihub)
 
@@ -1063,23 +1053,9 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="ALSTM"></a> **(ALSTM)** Qi Wang , Yongsheng Hao. "**ALSTM: An attention-based long short-term memory framework for knowledge base reasoning**". **Neurocomputing 2020**. [paper](https://doi.org/10.1016/j.neucom.2020.02.065)
 
-##### Data Mining and Knowledge Discovery
+##### IEEE Transactions on Knowledge and Data Engineering
 
-- <a name="Semi-supervised"></a> **(Semi-supervised)** Jia Zhu, Zetao Zheng, Min Yang, Gabriel Pui Cheong Fung, Yong Tang. "**A semi-supervised model for knowledge graph embedding**". **Data Mining and Knowledge Discovery 2020**. [paper](https://link.springer.com/article/10.1007/s10618-019-00653-z)
-
-##### Neural Computing and Applications
-
-- <a name="NKSGAN"></a> **(NKSGAN)** Hai Liu, Kairong Hu, Fu Lee Wang, Tianyong Hao. "**Aggregating neighborhood information for negative sampling for knowledge graph embedding**". **Neural Computing and Applications 2020**. [paper](https://link.springer.com/article/10.1007%2Fs00521-020-04940-5)
-
-- <a name="PRCTA"></a> **(PRCTA)** Kai Lei, Jin Zhang, Yuexiang Xie, Desi Wen, Daoyuan Chen, Min Yang, Ying Shen. "**Path-based reasoning with constrained type attention for knowledge graph completion**". **Neural Computing and Applications 2020**. [paper](https://link.springer.com/article/10.1007%2Fs00521-019-04181-1)
-
-##### Applied Intelligence 
-
-- <a name="CILKBC"></a> **(CILKBC)** Hongbin Wang, Shengchen Jiang, Zhengtao Yu. "**Modeling of complex internal logic for knowledge base completion**". **Applied Intelligence 2020**. [paper](https://link.springer.com/article/10.1007/s10489-020-01734-z)
-
-##### Physics Conference Series
-
-- <a name="UKGsE"></a> **(UKGsE)** Shihan Yang, Rui Tang, Zhiwei Zhang, and Guozhong Li "**Uncertain Knowledge Graph Embedding: a Natural and Effective Approach**". **Physics Conference Series 2020**. [paper](https://iopscience.iop.org/article/10.1088/1742-6596/1824/1/012002)
+- <a name="KGLG"></a> **(KGLG)** Takuma Ebisu, Ryutaro Ichise. "**Generalized Translation-Based Embedding of Knowledge Graph**". **IEEE Transactions on Knowledge and Data Engineering 2020**. [paper](https://doi.org/10.1109/TKDE.2019.2893920)
 
 #### Conference
 

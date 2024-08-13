@@ -589,11 +589,11 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="CEN"></a> **(CEN)** Zixuan Li, Saiping Guan, Xiaolong Jin, Weihua Peng, Yajuan Lyu, Yong Zhu, Long Bai, Wei Li, Jiafeng Guo, Xueqi Cheng. "**Complex Evolutional Pattern Learning for Temporal Knowledge Graph Reasoning**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-short.32/) [code](https://github.com/lee-zix/cen)
 
-- <a name="KGT5"></a> **(KGT5)** Apoorv Saxena, Adrian Kochsiek, Rainer Gemulla. "**Sequence-to-Sequence Knowledge Graph Completion and Question Answering**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.201/) [code](https://github.com/apoorvumang/kgt5)
+- <a name="KGT5"></a> **(KGT5)** Apoorv Saxena, Adrian Kochsiek, Rainer Gemulla. "**Sequence-to-Sequence Knowledge Graph Completion and Question Answering**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.201/) [code](https://github.com/apoorvumang/kgt5) :fire:
 
 - <a name="RotateQVS"></a> **(RotateQVS)** Kai Chen, Ye Wang, Yitong Li, Aiping Li. "**RotateQVS: Representing Temporal Information as Rotations in Quaternion Vector Space for Temporal Knowledge Graph Completion**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.402/)
 
-- <a name="SimKGC"></a> **(SimKGC)** Liang Wang, Wei Zhao, Zhuoyu Wei, Jingming Liu. "**SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.295/) [code](https://github.com/intfloat/SimKGC)
+- <a name="SimKGC"></a> **(SimKGC)** Liang Wang, Wei Zhao, Zhuoyu Wei, Jingming Liu. "**SimKGC: Simple Contrastive Knowledge Graph Completion with Pre-trained Language Models**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.295/) [code](https://github.com/intfloat/SimKGC) :fire:
 
 - <a name="SS-AGA"></a> **(SS-AGA)** Zijie Huang, Zheng Li, Haoming Jiang, Tianyu Cao, Hanqing Lu, Bing Yin, Karthik Subbian, Yizhou Sun, Wei Wang. "**Multilingual Knowledge Graph Completion with Self-Supervised Adaptive Graph Alignment**". **ACL 2022**. [paper](https://aclanthology.org/2022.acl-long.36/)
 
@@ -659,7 +659,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="ConGLR"></a> **(ConGLR)** Qika Lin, Jun Liu, Fangzhi Xu, Yudai Pan, Yifan Zhu, Lingling Zhang, Tianzhe Zhao. "**Incorporating Context Graph with Logical Reasoning for Inductive Relation Prediction**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531996)
 
-- <a name="MKGformer"></a> **(MKGformer)** Xiang Chen, Ningyu Zhang, Lei Li, Shumin Deng, Chuanqi Tan, Changliang Xu, Fei Huang, Luo Si, Huajun Chen. "**Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531992) [code](https://github.com/zjunlp/MKGformer)
+- <a name="MKGformer"></a> **(MKGformer)** Xiang Chen, Ningyu Zhang, Lei Li, Shumin Deng, Chuanqi Tan, Changliang Xu, Fei Huang, Luo Si, Huajun Chen. "**Hybrid Transformer with Multi-level Fusion for Multimodal Knowledge Graph Completion**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531992) [code](https://github.com/zjunlp/MKGformer) :fire:
 
 - <a name="MorsE"></a> **(MorsE)** Mingyang Chen, Wen Zhang, Yushan Zhu, Hongting Zhou, Zonggang Yuan, Changliang Xu, Huajun Chen. "**Meta-Knowledge Transfer for Inductive Knowledge Graph Embedding**". **SIGIR 2022**. [paper](https://dl.acm.org/doi/10.1145/3477495.3531757) [code](https://github.com/zjukg/MorsE)
 
@@ -769,7 +769,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="ChronoR"></a> **(ChronoR)** Ali Sadeghian, Mohammadreza Armandpour, Anthony Colas, Daisy Zhe Wang. "**ChronoR: Rotation Based Temporal Knowledge Graph Embedding**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16802)
 
-- <a name="CyGNet"></a> **(CyGNet)** Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, Yan Zhang. "**Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16604) [code](https://github.com/CunchaoZ/CyGNet)
+- <a name="CyGNet"></a> **(CyGNet)** Cunchao Zhu, Muhao Chen, Changjun Fan, Guangquan Cheng, Yan Zhang. "**Learning from History: Modeling Temporal Knowledge Graphs with Sequential Copy-Generation Networks**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16604) [code](https://github.com/CunchaoZ/CyGNet) :fire:
 
 - <a name="DualE"></a> **(DualE)** Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, Qingming Huang. "**Dual Quaternion Knowledge Graph Embeddings**". **AAAI 2021**. [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16850) [code](https://github.com/Lion-ZS/DualE)
 
@@ -815,9 +815,9 @@ Thanks for your attention and kind words! I will update KGE later.
 
 ##### ICLR
 
-- <a name="RNNLogic"></a> **(RNNLogic)** Meng Qu, Junkun Chen, Louis-Pascal A Xhonneux, Yoshua Bengio, Jian Tang. "**RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs**". **ICLR 2021**. [paper](https://iclr.cc/virtual/2021/poster/3084) [code](https://github.com/DeepGraphLearning/RNNLogic)
+- <a name="RNNLogic"></a> **(RNNLogic)** Meng Qu, Junkun Chen, Louis-Pascal A Xhonneux, Yoshua Bengio, Jian Tang. "**RNNLogic: Learning Logic Rules for Reasoning on Knowledge Graphs**". **ICLR 2021**. [paper](https://iclr.cc/virtual/2021/poster/3084) [code](https://github.com/DeepGraphLearning/RNNLogic) :fire:
 
-- <a name="xERTE"></a> **(xERTE)** Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp. "**Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs**". **ICLR 2021**. [paper](https://iclr.cc/virtual/2021/poster/3378) [code](https://github.com/TemporalKGTeam/xERTE)
+- <a name="xERTE"></a> **(xERTE)** Zhen Han, Peng Chen, Yunpu Ma, Volker Tresp. "**Explainable Subgraph Reasoning for Forecasting on Temporal Knowledge Graphs**". **ICLR 2021**. [paper](https://iclr.cc/virtual/2021/poster/3378) [code](https://github.com/TemporalKGTeam/xERTE) :fire:
 
 ##### IJCAI
 
@@ -841,7 +841,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="ConE"></a> **(ConE)** Zhanqiu Zhang, Jie Wang, Jiajun Chen, Shuiwang Ji, Feng Wu. "**ConE: Cone Embeddings for Multi-Hop Reasoning over Knowledge Graphs**". **NeurIPS 2021**. [paper](https://proceedings.neurips.cc/paper/2021/hash/a0160709701140704575d499c997b6ca-Abstract.html) [code](https://github.com/MIRALab-USTC/QE-ConE)
 
-- <a name="NBFNet"></a> **(NBFNet)** Zhaocheng Zhu, Zuobai Zhang, Louis-Pascal A. C. Xhonneux, Jian Tang. "**Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction**". **NeurIPS 2021**. [paper](https://proceedings.neurips.cc/paper/2021/hash/f6a673f09493afcd8b129a0bcf1cd5bc-Abstract.html)
+- <a name="NBFNet"></a> **(NBFNet)** Zhaocheng Zhu, Zuobai Zhang, Louis-Pascal A. C. Xhonneux, Jian Tang. "**Neural Bellman-Ford Networks: A General Graph Neural Network Framework for Link Prediction**". **NeurIPS 2021**. [paper](https://proceedings.neurips.cc/paper/2021/hash/f6a673f09493afcd8b129a0bcf1cd5bc-Abstract.html) :fire:
 
 ##### SIGIR
 
@@ -849,7 +849,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="MetaP"></a> **(MetaP)** Zhiyi Jiang, Jianliang Gao, Xinqi Lv. "**MetaP: Meta Pattern Learning for One-Shot Knowledge Graph Completion**". **SIGIR 2021**. [paper](https://dl.acm.org/doi/10.1145/3404835.3463086) [code](https://github.com/jzystc/MetaP)
 
-- <a name="RE-GCN"></a> **(RE-GCN)** Zixuan Li, Xiaolong Jin, Wei Li, Saiping Guan, Jiafeng Guo, Huawei Shen, Yuanzhuo Wang, Xueqi Cheng. "**Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning**". **SIGIR 2021**. [paper](https://dl.acm.org/doi/10.1145/3404835.3462963) [code](https://github.com/Lee-zix/RE-GCN)
+- <a name="RE-GCN"></a> **(RE-GCN)** Zixuan Li, Xiaolong Jin, Wei Li, Saiping Guan, Jiafeng Guo, Huawei Shen, Yuanzhuo Wang, Xueqi Cheng. "**Temporal Knowledge Graph Reasoning Based on Evolutional Representation Learning**". **SIGIR 2021**. [paper](https://dl.acm.org/doi/10.1145/3404835.3462963) [code](https://github.com/Lee-zix/RE-GCN) :fire:
 
 ##### WSDM
 
@@ -867,7 +867,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="RAW"></a> **(RAW)** Yu Liu, Quanming Yao, Yong Li. "**Role-Aware Modeling for N-ary Relational Knowledge Bases**". **WWW 2021**. [paper](https://dl.acm.org/doi/10.1145/3442381.3449874) [code](https://github.com/liuyuaa/RAM)
 		
-- <a name="StAR"></a> **(StAR)** Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Ying Wang, Yi Chang. "**Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion**". **WWW 2021**. [paper](https://dl.acm.org/doi/10.1145/3442381.3450043) [code](https://github.com/wangbo9719/StAR_KGC)
+- <a name="StAR"></a> **(StAR)** Bo Wang, Tao Shen, Guodong Long, Tianyi Zhou, Ying Wang, Yi Chang. "**Structure-Augmented Text Representation Learning for Efficient Knowledge Graph Completion**". **WWW 2021**. [paper](https://dl.acm.org/doi/10.1145/3442381.3450043) [code](https://github.com/wangbo9719/StAR_KGC) :fire:
 
 ### 2020
 
@@ -907,11 +907,11 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="DE-SimplE"></a> **(DE-SimplE)** Rishab Goel, Seyed Mehran Kazemi, Marcus Brubaker, Pascal Poupart. "**Diachronic Embedding for Temporal Knowledge Graph Completion**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5815) [code](https://github.com/BorealisAI/DE-SimplE) :fire:
 
-- <a name="EvolveGCN"></a> **(EvolveGCN)** Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B. Schardl, Charles E. Leiserson. "**EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs**". **AAAI 2020**. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/5984)
+- <a name="EvolveGCN"></a> **(EvolveGCN)** Aldo Pareja, Giacomo Domeniconi, Jie Chen, Tengfei Ma, Toyotaro Suzumura, Hiroki Kanezashi, Tim Kaler, Tao B. Schardl, Charles E. Leiserson. "**EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs**". **AAAI 2020**. [paper](https://ojs.aaai.org//index.php/AAAI/article/view/5984) :fire:
 
 - <a name="FSRL"></a> **(FSRL)** Chuxu Zhang, Huaxiu Yao, Chao Huang, Meng Jiang, Zhenhui Li, Nitesh V. Chawla. "**Few-Shot Knowledge Graph Completion**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5698) [code](https://github.com/chuxuzhang/AAAI2020_FSRL)
 
-- <a name="GNTPs"></a> **(GNTPs)** Pasquale Minervini, Matko Bosnjak, Tim Rocktäschel, Sebastian Riedel, Edward Grefenstette. "**Differentiable Reasoning on Large Knowledge Bases and Natural Language**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5962) :fire:
+- <a name="GNTPs"></a> **(GNTPs)** Pasquale Minervini, Matko Bosnjak, Tim Rocktäschel, Sebastian Riedel, Edward Grefenstette. "**Differentiable Reasoning on Large Knowledge Bases and Natural Language**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5962)
 
 - <a name="HAKE"></a> **(HAKE)** Zhanqiu Zhang, Jianyu Cai, Yongdong Zhang, Jie Wang. "**Learning Hierarchy-Aware Knowledge Graph Embeddings for Link Prediction**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5701) [code](https://github.com/MIRALab-USTC/KGE-HAKE) :fire:
 
@@ -925,13 +925,13 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="RPJE"></a> **(RPJE)** Guanglin Niu, Yongfei Zhang, Bo Li, Peng Cui, Si Liu, Jingyang Li, Xiaowei Zhang. "**Rule-Guided Compositional Representation Learning on Knowledge Graphs**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5687) [code](https://github.com/ngl567/RPJE)
 
-- <a name="SimE"></a> **(SimE)** Chaitanya Malaviya, Chandra Bhagavatula, Antoine Bosselut, Yejin Choi. "**Commonsense Knowledge Base Completion with Structural and Semantic Context**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5684) :fire:
+- <a name="SimE"></a> **(SimE)** Chaitanya Malaviya, Chandra Bhagavatula, Antoine Bosselut, Yejin Choi. "**Commonsense Knowledge Base Completion with Structural and Semantic Context**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/5684)
 
 - <a name="ZSGAN"></a> **(ZSGAN)** Pengda Qin, Xin Wang, Wenhu Chen, Chunyun Zhang, Weiran Xu, William Yang Wang. "**Generative Adversarial Zero-Shot Relational Learning for Knowledge Graphs**". **AAAI 2020**. [paper](https://aaai.org/ojs/index.php/AAAI/article/view/6392) [code](https://github.com/Panda0406/Zero-shot-knowledge-graph-relational-learning)
 
 ##### ACL
 
-- <a name="ATTH"></a> **(ATTH)** Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi and Christopher Ré. "**Low-Dimensional Hyperbolic Knowledge Graph Embeddings**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.617/) [code](https://github.com/HazyResearch/KGEmb)
+- <a name="ATTH"></a> **(ATTH)** Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi and Christopher Ré. "**Low-Dimensional Hyperbolic Knowledge Graph Embeddings**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.617/) [code](https://github.com/HazyResearch/KGEmb) :fire:
 
 - <a name="ConnectE"></a> **(ConnectE)** Yu Zhao, anxiang zhang, Ruobing Xie, Kang Liu and Xiaojie WANG. "**Connecting Embeddings for Knowledge Graph Entity Typing**". **ACL 2020**. [paper](https://www.aclweb.org/anthology/2020.acl-main.572/) [code](https://github.com/Adam1679/ConnectE)
 
@@ -995,19 +995,19 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="DPMPN"></a> **(DPMPN)** Xiaoran Xu, Wei Feng, Yunsheng Jiang, Xiaohui Xie, Zhiqing Sun, Zhi-Hong Deng. "**Dynamically Pruned Message Passing Networks for Large-scale Knowledge Graph Reasoning**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rkeuAhVKvB) [code](https://github.com/netpaladinx/DPMPN)
 
-- <a name="DrKIT"></a> **(DrKIT)** Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen. "**Differentiable Reasoning over a Virtual Knowledge Base**". **ICLR 2020**. [paper](https://openreview.net/forum?id=SJxstlHFPH) [code](https://github.com/google-research/language/tree/master/language/labs/drkit) :fire:
+- <a name="DrKIT"></a> **(DrKIT)** Bhuwan Dhingra, Manzil Zaheer, Vidhisha Balachandran, Graham Neubig, Ruslan Salakhutdinov, William W. Cohen. "**Differentiable Reasoning over a Virtual Knowledge Base**". **ICLR 2020**. [paper](https://openreview.net/forum?id=SJxstlHFPH) [code](https://github.com/google-research/language/tree/master/language/labs/drkit)
 
 - <a name="Neural-LP-N"></a> **(Neural-LP-N)** Po-Wei Wang, Daria Stepanova, Csaba Domokos, J. Zico Kolter. "**Differentiable learning of numerical rules in knowledge graphs**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rJleKgrKwS)
 
 - <a name="ReifKB"></a> **(ReifKB)**  William W. Cohen, Haitian Sun, R. Alex Hofer, Matthew Siegler. "**Scalable Neural Methods for Reasoning With a Symbolic Knowledge Base**". **ICLR 2020**. [paper](https://openreview.net/forum?id=BJlguT4YPr)
 
-- <a name="TComplEx"></a> **(TComplEx)** Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier. "**Tensor Decompositions for Temporal Knowledge Base Completion**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rke2P1BFwS) [code](https://github.com/facebookresearch/tkbc)
+- <a name="TComplEx"></a> **(TComplEx)** Timothée Lacroix, Guillaume Obozinski, Nicolas Usunier. "**Tensor Decompositions for Temporal Knowledge Base Completion**". **ICLR 2020**. [paper](https://openreview.net/forum?id=rke2P1BFwS) [code](https://github.com/facebookresearch/tkbc) :fire:
 
 - <a name="Teach"></a> **(Teach)** Daniel Ruffinelli, Samuel Broscheit, Rainer Gemulla. "**You CAN Teach an Old Dog New Tricks! On Training Knowledge Graph Embeddings**". **ICLR 2020**. [paper](https://openreview.net/forum?id=BkxSmlBFvr) [code](https://github.com/uma-pi1/kge) :fire:
 
 ##### ICML
 
-- <a name="GraIL"></a> **(GraIL)** Komal K. Teru, Etienne Denis, Will Hamilton. "**Inductive Relation Prediction by Subgraph Reasoning**". **ICML 2020**. [paper](http://proceedings.mlr.press/v119/teru20a.html)
+- <a name="GraIL"></a> **(GraIL)** Komal K. Teru, Etienne Denis, Will Hamilton. "**Inductive Relation Prediction by Subgraph Reasoning**". **ICML 2020**. [paper](http://proceedings.mlr.press/v119/teru20a.html) :fire:
 
 - <a name="LowFER"></a> **(LowFER)** Saadullah Amin, Stalin Varanasi, Katherine Ann Dunfield, Günter Neumann. "**LowFER: Low-rank Bilinear Pooling for Link Prediction**". **ICML 2020**. [paper](http://proceedings.mlr.press/v119/amin20a) [code](https://github.com/suamin/LowFER)
 
@@ -1027,7 +1027,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 ##### NeurIPS
 
-- <a name="BoxE"></a> **(BoxE)** Ralph Abboud, Ismail Ilkan Ceylan, Thomas Lukasiewicz, Tommaso Salvatori. "**BoxE: A Box Embedding Model for Knowledge Base Completion**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/6dbbe6abe5f14af882ff977fc3f35501-Abstract.html)
+- <a name="BoxE"></a> **(BoxE)** Ralph Abboud, Ismail Ilkan Ceylan, Thomas Lukasiewicz, Tommaso Salvatori. "**BoxE: A Box Embedding Model for Knowledge Base Completion**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/6dbbe6abe5f14af882ff977fc3f35501-Abstract.html) :fire:
 
 - <a name="DURA"></a> **(DURA)** Zhanqiu Zhang, Jianyu Cai, Jie Wang. "**Duality-Induced Regularizer for Tensor Factorization Based Knowledge Graph Completion**". **NeurIPS 2020**. [paper](https://proceedings.neurips.cc/paper/2020/hash/f6185f0ef02dcaec414a3171cd01c697-Abstract.html) [code](https://github.com/MIRALab-USTC/KGE-DURA)
 

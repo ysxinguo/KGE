@@ -1233,33 +1233,31 @@ Thanks for your attention and kind words! I will update KGE later.
 
 ##### AAAI
 
-- <a name="MLNs"></a> **(MLNs)** Melisachew Wudage Chekol, Giuseppe Pirrò, Joerg Schoenfisch, Heiner Stuckenschmidt. "**Marrying Uncertainty and Time in Knowledge Graphs**". **AAAI 2017**. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14730)
-
 - <a name="ProjE"></a> **(ProjE)** Baoxu Shi, Tim Weninger. "**ProjE: Embedding Projection for Knowledge Graph Completion**". **AAAI 2017**. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14279) [code](https://github.com/bxshi/ProjE)
-
-- <a name="puTransE"></a> **(puTransE)** Yi Tay, Luu Anh Tuan, Siu Cheung Hui. "**Non-Parametric Estimation of Multiple Embeddings for Link Prediction on Dynamic Knowledge Graphs**". **AAAI 2017**. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14524)
-
-- <a name="SSP"></a> **(SSP)** Han Xiao, Minlie Huang, Lian Meng, Xiaoyan Zhu. "**SSP: Semantic Space Projection for Knowledge Graph Embedding with Text Descriptions**". **AAAI 2017**. [paper](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14306) [code](https://github.com/BookmanHan/Embedding)
-
-##### NeurIPS
-
-- <a name="Neural-LP"></a> **(Neural-LP)** Fan Yang, Zhilin Yang, William W. Cohen. "**Differentiable Learning of Logical Rules for Knowledge Base Reasoning**". **NeurIPS 2017**. [paper](http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips30/reviews/1347.html) [code](https://github.com/fanyangxyz/Neural-LP)
-
-- <a name="NTPs"></a> **(NTPs)** Tim Rocktäschel, Sebastian Riedel. "**End-to-end Differentiable Proving**". **NeurIPS 2017**. [paper](https://proceedings.neurips.cc/paper/2017/hash/b2ab001909a8a6f04b51920306046ce5-Abstract.html)
 
 ##### ACL
 
-- <a name="FRN"></a> **(FRN)** Alexandros Komninos, Suresh Manandhar. "**Feature-Rich Networks for Knowledge Base Completion**". **ACL 2017**. [paper](https://www.aclweb.org/anthology/P17-2051/)
-
 - <a name="ITransf"></a> **(ITransF)** Qizhe Xie, Xuezhe Ma, Zihang Dai, Eduard Hovy. "**An Interpretable Knowledge Transfer Model for Knowledge Base Completion**". **ACL 2017**. [paper](https://www.aclweb.org/anthology/P17-1088/)
+
+##### CIKM
+
+- <a name="ETE"></a> **(ETE)** Changsung Moon, Paul Jones, Nagiza F. Samatova. "**Learning Entity Type Embeddings for Knowledge Graph Completion**". **CIKM 2017**. [paper](https://dl.acm.org/doi/10.1145/3132847.3133095)
+
+##### ECML-PKDD
+
+- <a name="TransT"></a> **(TransT)** Shiheng Ma, Jianhui Ding, Weijia Jia, Kun Wang, Minyi Guo. "**TransT: Type-Based Multiple Embedding Representations for Knowledge Graph Completion**". **ECML/PKDD 2017**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-71249-9_43)
+
+##### EMNLP
+
+- <a name="DeepPath"></a> **(DeepPath)** Wenhan Xiong, Thien Hoang, William Yang Wang. "**DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning**". **EMNLP 2017**. [paper](https://www.aclweb.org/anthology/D17-1060/) 
+
+- <a name="Sparsity"></a> **(Sparsity)** Jay Pujara, Eriq Augustine, Lise Getoor. "**Sparsity and Noise: Where Knowledge Graph Embeddings Fall Short**". **EMNLP 2017**. [paper](https://www.aclweb.org/anthology/D17-1184/) [code](https://github.com/linqs/pujara-emnlp17)
 
 ##### ICML
 
 - <a name="ANALOGY"></a> **(ANALOGY)** Hanxiao Liu, Yuexin Wu, Yiming Yang. "**Analogical Inference for Multi-relational Embeddings**". **ICML 2017**. [paper](http://proceedings.mlr.press/v70/liu17d.html) [code](https://github.com/quark0/ANALOGY)
 
 - <a name="Know-Evolve"></a> **(Know-Evolve)** Rakshit Trivedi, Hanjun Dai, Yichen Wang, Le Song. "**Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs**". **ICML 2017**. [paper](http://proceedings.mlr.press/v70/trivedi17a.html)
-
-- <a name="MPNN"></a> **(MPNN)** Justin Gilmer, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, George E. Dahl. "**Neural Message Passing for Quantum Chemistry**". **ICML 2017**. [paper](http://proceedings.mlr.press/v70/gilmer17a.html)
 
 ##### IJCAI
 
@@ -1269,45 +1267,15 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="MEAN"></a> **(MEAN)** Takuo Hamaguchi, Hidekazu Oiwa, Masashi Shimbo, Yuji Matsumoto. "**Knowledge Transfer for Out-of-Knowledge-Base Entities : A Graph Neural Network Approach**". **IJCAI 2017**. [paper](https://www.ijcai.org/proceedings/2017/250)
 
+##### NeurIPS
+
+- <a name="Neural-LP"></a> **(Neural-LP)** Fan Yang, Zhilin Yang, William W. Cohen. "**Differentiable Learning of Logical Rules for Knowledge Base Reasoning**". **NeurIPS 2017**. [paper](http://papers.nips.cc/paper/6826-differentiable-learning-of-logical-rules-for-knowledge-base-reasoning) [reviews](http://media.nips.cc/nipsbooks/nipspapers/paper_files/nips30/reviews/1347.html) [code](https://github.com/fanyangxyz/Neural-LP)
+
+- <a name="NTPs"></a> **(NTPs)** Tim Rocktäschel, Sebastian Riedel. "**End-to-end Differentiable Proving**". **NeurIPS 2017**. [paper](https://proceedings.neurips.cc/paper/2017/hash/b2ab001909a8a6f04b51920306046ce5-Abstract.html)
+
 ##### UAI
 
 - <a name="ASR-ComplEx"></a> **(ASR-ComplEx)** Pasquale Minervini, Thomas Demeester, Tim Rocktäschel, Sebastian Riedel. "**Adversarial Sets for Regularising Neural Link Predictors**". **UAI 2017**. [paper](http://auai.org/uai2017/proceedings/papers/306.pdf)
-
-##### EMNLP
-
-- <a name="DeepPath"></a> **(DeepPath)** Wenhan Xiong, Thien Hoang, William Yang Wang. "**DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning**". **EMNLP 2017**. [paper](https://www.aclweb.org/anthology/D17-1060/) 
-
-- <a name="Sparsity"></a> **(Sparsity)** Jay Pujara, Eriq Augustine, Lise Getoor. "**Sparsity and Noise: Where Knowledge Graph Embeddings Fall Short**". **EMNLP 2017**. [paper](https://www.aclweb.org/anthology/D17-1184/) [code](https://github.com/linqs/pujara-emnlp17)
-
-##### CIKM
-
-- <a name="CombinE"></a> **(CombinE)** Zhen Tan, Xiang Zhao, Wei Wang. "**Representation Learning of Large-Scale Knowledge Graphs via Entity Feature Combinations**". **CIKM 2017**. [paper](https://dl.acm.org/doi/10.1145/3132847.3132961)
-
-- <a name="Correlation"></a> **(Correlation)** Soumajit Pal, Jacopo Urbani. "**Enhancing Knowledge Graph Completion By Embedding Correlations**". **CIKM 2017**.  [paper](https://dl.acm.org/doi/10.1145/3132847.3133143) [code](https://github.com/karmaresearch/statlearning)
-
-- <a name="ETE"></a> **(ETE)** Changsung Moon, Paul Jones, Nagiza F. Samatova. "**Learning Entity Type Embeddings for Knowledge Graph Completion**". **CIKM 2017**. [paper](https://dl.acm.org/doi/10.1145/3132847.3133095)
-
-- <a name="TCE"></a> **(TCE)** Jun Shi, Huan Gao, Guilin Qi, Zhangquan Zhou. "**Knowledge Graph Embedding with Triple Context**". **CIKM 2017**. [paper](https://dl.acm.org/doi/10.1145/3132847.3133119) [code](https://github.com/juneshi0315/TCE)
-
-- <a name="TransE-RS"></a> **(TransE-RS)** Xiaofei Zhou, Qiannan Zhu, Ping Liu, Li Guo. "**Learning Knowledge Embeddings by Combining Limit-based Scoring Loss**". **CIKM 2017**. [paper](https://dl.acm.org/doi/10.1145/3132847.3132939)
-
-- <a name="URGE"></a> **(URGE)** Jiafeng Hu, Reynold Cheng, Zhipeng Huang, Yixiang Fang, Siqiang Luo. "**On Embedding Uncertain Graphs**". **CIKM 2017**. [paper](https://dl.acm.org/doi/10.1145/3132847.3132885)
-
-##### WSDM
-
-- <a name="RSTE"></a> **(RSTE)** Yi Tay, Anh Tuan Luu, Siu Cheung Hui, Falk Brauer. "**Random Semantic Tensor Ensemble for Scalable Knowledge Graph Link Prediction**". **WSDM 2017**. [paper](https://dl.acm.org/doi/10.1145/3018661.3018695)
-
-##### ECML-PKDD
-
-- <a name="ComplEx<sup>R</sup>"></a> **(ComplEx<sup>R</sup>)** Pasquale Minervini, Luca Costabello, Emir Muñoz, Vít Novácek, Pierre-Yves Vandenbussche. "**Regularizing Knowledge Graph Embeddings via Equivalence and Inversion Axioms**". **ECML/PKDD 2017**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-71249-9_40)
-
-- <a name="TransT"></a> **(TransT)** Shiheng Ma, Jianhui Ding, Weijia Jia, Kun Wang, Minyi Guo. "**TransT: Type-Based Multiple Embedding Representations for Knowledge Graph Completion**". **ECML/PKDD 2017**. [paper](https://link.springer.com/chapter/10.1007%2F978-3-319-71249-9_43)
-
-##### WWW
-
-- <a name="ORC"></a> **(ORC)** Wen Zhang. "**Knowledge Graph Embedding with Diversity of Structures**". **WWW 2017**. [paper](https://dl.acm.org/doi/10.1145/3041021.3053380)
-
-- <a name="TransR-PNS"></a> **(TransR-PNS)** Vibhor Kanojia, Hideyuki Maeda, Riku Togashi, Sumio Fujita. "**Enhancing Knowledge Graph Embedding with Probabilistic Negative Sampling**". **WWW 2017**. [paper](https://dl.acm.org/doi/10.1145/3041021.3054238)
 
 ### 2016
 

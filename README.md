@@ -499,7 +499,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="DeepER"></a> **(DeepER)** Adnan Zeb, Summaya Saif, Junde Chen, Defu Zhang. "**Learning knowledge graph embeddings by deep relational roto-reflection**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122007171?via%3Dihub) [code](https://github.com/Aazeb/DeepER)
 
-- <a name="DKGE"></a> **(DKGE)** Tianxing Wu, Arijit Khan, Melvin Yong, Guilin Qi, Meng Wang. "**Efficiently embedding dynamic knowledge graphs**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122005548?via%3Dihub)
+- <a name="DKGE"></a> **(DKGE)** Tianxing Wu, Arijit Khan, Melvin Yong, Guilin Qi, Meng Wang. "**Efficiently embedding dynamic knowledge graphs**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122005548?via%3Dihub) :fire:
 
 - <a name="EIGAT"></a> **(EIGAT)** Yu Zhao, Huali Feng, Han Zhou, Yanruo Yang, Xingyan Chen, Ruobing Xie, Fuzhen Zhuang, Qing Li. "**EIGAT: Incorporating global information in local attention for knowledge representation learning**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010649?via%3Dihub) [code](https://github.com/zhouhanhanhan/EIGAT)
 
@@ -513,7 +513,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="MFAE"></a> **(MFAE)** Dan Jiang, Ronggui Wang, Lixia Xue, Juan Yang. "**Multiview feature augmented neural network for knowledge graph embedding**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S095070512200870X?via%3Dihub)
 
-- <a name="MRGAT"></a> **(MRGAT)** Zhifei Li, Yue Zhao, Yan Zhang, Zhaoli Zhang. "**Multi-relational graph attention networks for knowledge graph completion**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006311?via%3Dihub)
+- <a name="MRGAT"></a> **(MRGAT)** Zhifei Li, Yue Zhao, Yan Zhang, Zhaoli Zhang. "**Multi-relational graph attention networks for knowledge graph completion**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122006311?via%3Dihub) :fire:
 
 - <a name="ReflectE"></a> **(ReflectE)** Qianjin Zhang, Ronggui Wang, Juan Yang, Lixia Xue. "**Knowledge graph embedding by reflection transformation**". **Knowledge Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010418?via%3Dihub)
 
@@ -523,7 +523,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="SNS"></a> **(SNS)** Md. Kamrul Islam, Sabeur Aridhi, Malika Smaïl-Tabbone. "**Negative sampling and rule mining for explainable link prediction in knowledge graphs**". **Knowledge-Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705122005342?via%3Dihub)
 
-- <a name="TuckERT"></a> **(TuckERT)** Pengpeng Shao, Dawei Zhang, Guohua Yang, Jianhua Tao, Feihu Che, Tong Liu. "**Tucker decomposition-based temporal knowledge graph completion**". **Knowledge Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010303?via%3Dihub)
+- <a name="TuckERT"></a> **(TuckERT)** Pengpeng Shao, Dawei Zhang, Guohua Yang, Jianhua Tao, Feihu Che, Tong Liu. "**Tucker decomposition-based temporal knowledge graph completion**". **Knowledge Based Systems 2022**. [paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705121010303?via%3Dihub) :fire:
 
 ##### Neurocomputing
 
@@ -553,20 +553,20 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="KGE-SS"></a> **(KGE-SS)** Xiaofei Zhou, Lingfeng Niu, Qiannan Zhu, Xingquan Zhu, Ping Liu, Jianlong Tan, Li Guo. "**Knowledge Graph Embedding by Double Limit Scoring Loss**". **IEEE Transactions on Knowledge and Data Engineering 2022**. [paper](https://ieeexplore.ieee.org/document/9360502)
 
-- <a name="M-DCN"></a> **(M-DCN)** Zhaoli Zhang, Zhifei Li, Hai Liu, Neal N. Xiong. "**Multi-Scale Dynamic Convolutional Network for Knowledge Graph Embedding**". **IEEE Transactions on Knowledge and Data Engineering 2022**. [paper](https://ieeexplore.ieee.org/document/9130149) [code](https://github.com/zhifei1993/M_DCN)
+- <a name="M-DCN"></a> **(M-DCN)** Zhaoli Zhang, Zhifei Li, Hai Liu, Neal N. Xiong. "**Multi-Scale Dynamic Convolutional Network for Knowledge Graph Embedding**". **IEEE Transactions on Knowledge and Data Engineering 2022**. [paper](https://ieeexplore.ieee.org/document/9130149) [code](https://github.com/zhifei1993/M_DCN) :fire:
 
 ##### IEEE Transactions on Neural Networks and Learning Systems
 
 - <a name="GGAE"></a> **(GGAE)** Qian Li, Daling Wang, Shi Feng, Cheng Niu, Yifei Zhang. "**Global Graph Attention Embedding Network for Relation Prediction in Knowledge Graphs**". **IEEE Transactions on Neural Networks and Learning Systems 2022**. [paper](https://ieeexplore.ieee.org/document/9452178) [code](https://github.com/feiwangyuzhou/GGAE)
 
-- <a name="HRAN"></a> **(HRAN)** Zhifei Li, Hai Liu, Zhaoli Zhang, Tingting Liu, Neal N. Xiong. "**Learning Knowledge Graph Embedding With Heterogeneous Relation Attention Networks**". **IEEE Transactions on Neural Networks and Learning Systems 2022**. [paper](https://ieeexplore.ieee.org/document/9359364) [code](https://github.com/zhifei1993/HRAN)
+- <a name="HRAN"></a> **(HRAN)** Zhifei Li, Hai Liu, Zhaoli Zhang, Tingting Liu, Neal N. Xiong. "**Learning Knowledge Graph Embedding With Heterogeneous Relation Attention Networks**". **IEEE Transactions on Neural Networks and Learning Systems 2022**. [paper](https://ieeexplore.ieee.org/document/9359364) [code](https://github.com/zhifei1993/HRAN) :fire:
 
 ##### IEEE Transactions on Pattern Analysis and Machine Intelligence
 
-- <a name="HeteHG-VAE"></a> **(HeteHG-VAE)** Haoyi Fan, Fengbin Zhang, Yuxuan Wei, Zuoyong Li, Changqing Zou, Yue Gao, Qionghai Dai. "**Heterogeneous Hypergraph Variational Autoencoder for Link Prediction**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2022**. [paper](https://ieeexplore.ieee.org/document/9354594) [code](https://github.com/haoyfan/HeteHG-VAE)
+- <a name="HeteHG-VAE"></a> **(HeteHG-VAE)** Haoyi Fan, Fengbin Zhang, Yuxuan Wei, Zuoyong Li, Changqing Zou, Yue Gao, Qionghai Dai. "**Heterogeneous Hypergraph Variational Autoencoder for Link Prediction**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2022**. [paper](https://ieeexplore.ieee.org/document/9354594) [code](https://github.com/haoyfan/HeteHG-VAE) :fire:
 
-- <a name="PyKEEN"></a> **(PyKEEN)** Mehdi Ali, Max Berrendorf, Charles Tapley Hoyt, Laurent Vermue, Mikhail Galkin, Sahand Sharifzadeh, Asja Fischer, Volker Tresp, Jens Lehmann. "**Bringing Light Into the Dark: A Large-Scale Evaluation of Knowledge Graph Embedding Models Under a Unified Framework**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2022**. [paper](https://ieeexplore.ieee.org/document/9601281) [code](https://github.com/pykeen/pykeen) [code](https://github.com/pykeen/benchmarking)
-
+- <a name="PyKEEN"></a> **(PyKEEN)** Mehdi Ali, Max Berrendorf, Charles Tapley Hoyt, Laurent Vermue, Mikhail Galkin, Sahand Sharifzadeh, Asja Fischer, Volker Tresp, Jens Lehmann. "**Bringing Light Into the Dark: A Large-Scale Evaluation of Knowledge Graph Embedding Models Under a Unified Framework**". **IEEE Transactions on Pattern Analysis and Machine Intelligence 2022**. [paper](https://ieeexplore.ieee.org/document/9601281) [code](https://github.com/pykeen/pykeen) [code](https://github.com/pykeen/benchmarking) :fire:
+ 
 #### Conference
 
 ##### AAAI
@@ -709,7 +709,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 ##### Journal of Machine Learning Research
 
-- <a name="PyKEEN"></a> **(PyKEEN)** Mehdi Ali, Max Berrendorf, Charles Tapley Hoyt, Laurent Vermue, Sahand Sharifzadeh, Volker Tresp, Jens Lehmann. "**PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings**". **Journal of Machine Learning Research 2021**.  [paper](https://jmlr.org/papers/v22/20-825.html) [code](https://github.com/pykeen/pykeen)
+- <a name="PyKEEN"></a> **(PyKEEN)** Mehdi Ali, Max Berrendorf, Charles Tapley Hoyt, Laurent Vermue, Sahand Sharifzadeh, Volker Tresp, Jens Lehmann. "**PyKEEN 1.0: A Python Library for Training and Evaluating Knowledge Graph Embeddings**". **Journal of Machine Learning Research 2021**.  [paper](https://jmlr.org/papers/v22/20-825.html) [code](https://github.com/pykeen/pykeen) :fire:
 
 - <a name="Pykg2vec"></a> **(Pykg2vec)** Shih-Yuan Yu, Sujit Rokka Chhetri, Arquimedes Canedo, Palash Goyal, Mohammad Abdullah Al Faruque. "**Pykg2vec: A Python Library for Knowledge Graph Embedding**". **Journal of Machine Learning Research 2021**.  [paper](https://jmlr.org/papers/v22/19-433.html) [code](https://github.com/Sujit-O/pykg2vec)
 
@@ -759,7 +759,7 @@ Thanks for your attention and kind words! I will update KGE later.
 
 - <a name="RLvLR"></a> **(RLvLR)** Pouya Ghiasnezhad Omran, Kewen Wang, Zhe Wang. "**An Embedding-Based Approach to Rule Learning in Knowledge Graphs**". **IEEE Transactions on Knowledge and Data Engineering 2021**. [paper](https://ieeexplore.ieee.org/document/8839576)
 
-- <a name="TAPR"></a> **(TAPR)** Ying Shen, Ning Ding, Hai-Tao Zheng, Yaliang Li, Min Yang. "**Modeling Relation Paths for Knowledge Graph Completion**". **IEEE Transactions on Knowledge and Data Engineering 2021**. [paper](https://ieeexplore.ieee.org/document/8974254)
+- <a name="TAPR"></a> **(TAPR)** Ying Shen, Ning Ding, Hai-Tao Zheng, Yaliang Li, Min Yang. "**Modeling Relation Paths for Knowledge Graph Completion**". **IEEE Transactions on Knowledge and Data Engineering 2021**. [paper](https://ieeexplore.ieee.org/document/8974254) :fire:
 
 #### Conference
 

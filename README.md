@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/af4491db-8479-474c-9e85-ee668546e84a)# KGE
+# KGE
 Some papers on Knowledge Graph Embedding (KGE).
 
 I am terribly sorry that the original repository is blocked.

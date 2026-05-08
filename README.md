@@ -450,12 +450,13 @@ Reasoning over Knowledge Graph**". **`ACL 2025`**. [paper](https://aclanthology.
 
 - <a name="RLEE"></a> **(RLEE)** Longzhou Liu, Chenglong Xiao, Shanshan Wang, Tingwen Liu. "**Relation Logical Reasoning and Relation-aware Entity Encoding for Temporal Knowledge Graph Reasoning**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.88/)
 
-- Yang Xiao, Ruimeng Ye, Bo Hui:. "**Knowledge Graph Unlearning with Schema**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.238/)
+- Yang Xiao, Ruimeng Ye, Bo Hui. "**Knowledge Graph Unlearning with Schema**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.238/)
+
+- Yang Xiao, Ruimeng Ye, Bohan Liu, Xiaolong Ma, Bo Hui. "**Efficient Knowledge Graph Unlearning with Zeroth-order Information**". **`CIKM 2025`**. [paper](https://dl.acm.org/doi/10.1145/3746252.3761379)
 
 - <a name="SNAG"></a> **(SNAG)** Zhuo Chen, Yin Fang, Yichi Zhang, Lingbing Guo, Jiaoyan Chen, Jeff Z. Pan, Huajun Chen, Wen Zhang. "**Noise-powered Multi-modal Knowledge Graph Representation Framework**". **`COLING 2025`**. [paper](https://aclanthology.org/2025.coling-main.11/)
 
 - <a name="HOKE"></a> **(HOKE)** Giuseppe Pirrò. "**Higher Order Knowledge Graph Embeddings**". **`ECIR 2025`**. [paper](https://link.springer.com/chapter/10.1007/978-3-031-88708-6_12)
-
 
 - <a name="BYOKG-RAG"></a> **(BYOKG-RAG)** Costas Mavromatis, Soji Adeshina, Vassilis N. Ioannidis, Zhen Han, Qi Zhu, Ian Robinson, Bryan Thompson, Huzefa Rangwala, George Karypis. "**BYOKG-RAG: Multi-Strategy Graph Retrieval for Knowledge Graph Question Answering**". **`EMNLP 2025`**. [paper](https://aclanthology.org/2025.emnlp-main.1417/)
 
